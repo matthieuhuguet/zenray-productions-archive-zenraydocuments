@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "files": [
+    {
+      "path": "value-chain.svg",
+      "bytes": 350134,
+      "sha256": "22feb456faaf3cace44799cb5da6c1eeea96fbacc8bfb86667afa37487f9a2f2"
+    },
+    {
+      "path": "SynthesisSource.json",
+      "bytes": 1620,
+      "sha256": "fe99c73c254d3375f8e1ddba52d49f6fb8b430cceb8f349fdea5f7ed2120f045"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "projectId": "zenray-progress",
+  "title": "Lecture mobile et audio japonais",
+  "generatedAt": "2026-11-09T16:13:38+01:00",
+  "facts": [
+    {
+      "date": "2026-11-09",
+      "fact": "Le panneau tactile du lecteur reste ouvert pendant le défilement et se ferme avec une commande visible."
+    },
+    {
+      "date": "2026-11-09",
+      "fact": "La taille initiale des sous-titres est 100 %."
+    },
+    {
+      "date": "2026-11-09",
+      "fact": "La piste japonaise devient la piste par défaut dans le lecteur, les manifestes et les playlists HLS si elle existe."
+    },
+    {
+      "date": "2026-11-09",
+      "fact": "S01E22, S01E23 et S01E24 ont été relus dans origin/main ; jpn est la seule piste par défaut dans les manifestes et playlists."
+    },
+    {
+      "date": "2026-11-09",
+      "fact": "La production ZenRayProgress sert les fichiers JavaScript et CSS qui correspondent exactement au build du commit 9fdfb24c."
+    },
+    {
+      "date": "2026-11-09",
+      "fact": "Les 72 tests ciblés du correctif passent ; le build production du main courant passe."
+    }
+  ],
+  "evidence": {
+    "appCommit": "ddcf917e74c59c18e3df8ef75ad6518441be5e13",
+    "productionSourceCommit": "9fdfb24c3c817bbacfd2c3433fa785382b9dc74b",
+    "deployment": "https://7185fc05.zenray-progress.pages.dev",
+    "dataCommit": "47a327bf40",
+    "remoteDataHead": "69358a696c353bfb4049402e0b185a2008962245",
+    "targetedTests": "72 passed across 6 files",
+    "browserProof": "mobile in-app browser simulation at 325 CSS px; not an iPhone or WebKit run",
+    "sourceFilesLocal": "absent after cloud verification"
+  }
+}

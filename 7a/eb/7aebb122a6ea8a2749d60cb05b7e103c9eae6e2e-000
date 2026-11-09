@@ -1,8 +1,8 @@
 {
   "schema": "zenray-documents/index@1",
   "cloud": "pages/ZenRayDocuments",
-  "updatedAt": "2026-11-09T15:55:21+01:00",
-  "count": 67,
+  "updatedAt": "2026-11-09T16:15:14+01:00",
+  "count": 68,
   "documents": [
     {
       "id": "abonnement-max",
@@ -826,6 +826,74 @@
             "atelier": "/Users/zenray/.claude/tmp/tmp-houdini-september-2026/tmp-bayou-louisiana/Articles/RoofSummary-29-October-2026"
           },
           "files": [],
+          "thumb": "_thumb.webp"
+        }
+      ]
+    },
+    {
+      "id": "mobile-audio-japonais",
+      "title": "Lecture mobile et audio japonais",
+      "kind": "article",
+      "language": "fr",
+      "tags": [
+        "zenray-edit",
+        "article"
+      ],
+      "projects": [
+        "zenray-progress"
+      ],
+      "related": [],
+      "createdAt": "2026-11-09T16:15:14+01:00",
+      "updatedAt": "2026-11-09T16:15:14+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "mobile-audio-japonais/V_001-9-November-2026-1615",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "local",
+          "createdAt": "2026-11-09T16:15:14+01:00",
+          "note": "Project article 9 November 2026, SHA-256 9123252ca427",
+          "origin": null,
+          "files": [
+            {
+              "path": "Article.json",
+              "bytes": 62945,
+              "sha256": "380ba3ba6dc389e92cb73d4645402005da2200e23ebfdce1e3f5241085c1012a"
+            },
+            {
+              "path": "SynthesisSource.json",
+              "bytes": 1620,
+              "sha256": "fe99c73c254d3375f8e1ddba52d49f6fb8b430cceb8f349fdea5f7ed2120f045"
+            },
+            {
+              "path": "_thumb.webp",
+              "bytes": 27606,
+              "sha256": "5a65223d47fd3a490262bb4794590d93eb7fb7f85909cbf76e29e12d429c5af6"
+            },
+            {
+              "path": "index.html",
+              "bytes": 698010,
+              "sha256": "9123252ca427222d685f4f2794d6481d5af584967c16be6967c24665a13b9a3c"
+            },
+            {
+              "path": "sources.json",
+              "bytes": 349,
+              "sha256": "a9007745035c51053fc279670d41f3525a94227b5c9204737a7d913d647a7052"
+            },
+            {
+              "path": "thumbnail.png",
+              "bytes": 46150,
+              "sha256": "4f3c9619298b49bdeac9065b977097bc591331d17e5ec693e0f242f90353a730"
+            },
+            {
+              "path": "value-chain.svg",
+              "bytes": 350134,
+              "sha256": "22feb456faaf3cace44799cb5da6c1eeea96fbacc8bfb86667afa37487f9a2f2"
+            }
+          ],
           "thumb": "_thumb.webp"
         }
       ]
