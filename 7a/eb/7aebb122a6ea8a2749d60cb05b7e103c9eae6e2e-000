@@ -1,0 +1,2542 @@
+{
+  "schema": "zenray-documents/index@1",
+  "cloud": "pages/ZenRayDocuments",
+  "updatedAt": "2026-11-09T15:00:04+01:00",
+  "count": 67,
+  "documents": [
+    {
+      "id": "abonnement-max",
+      "title": "Abonnement Max, trois propositions",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "zenray-progress"
+      ],
+      "projects": [
+        "zenray-progress"
+      ],
+      "related": [],
+      "createdAt": "2026-10-25T14:40:11+01:00",
+      "updatedAt": "2026-10-25T14:40:11+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-25-abonnement-max",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-25T14:40:11+01:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-abonnement-max-25-october-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "abonnement-max-claude-code",
+      "title": "Claude Code, trois titres pour l'anneau",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "zenray-progress"
+      ],
+      "projects": [
+        "zenray-progress"
+      ],
+      "related": [],
+      "createdAt": "2026-10-25T14:43:33+01:00",
+      "updatedAt": "2026-10-25T14:43:33+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-25-abonnement-max-claude-code",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-25T14:43:33+01:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-abonnement-max-b-25-october-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "adobe-clean-progress",
+      "title": "Adobe Clean sur ZenRay Progress",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "progress"
+      ],
+      "projects": [
+        "zenray-edit"
+      ],
+      "related": [],
+      "createdAt": "2026-11-05T13:06:09+01:00",
+      "updatedAt": "2026-11-05T13:06:09+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-11-05-adobe-clean-progress",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-11-05T13:06:09+01:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-adobe-clean-05-november-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "color-picker-minimal-3-designs",
+      "title": "ZenRay Color Picker : 3 designs minimalistes (A, B, C)",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "ui"
+      ],
+      "projects": [
+        "zenray-color-picker-18-october-2026"
+      ],
+      "related": [],
+      "createdAt": "2026-10-18T19:55:44+02:00",
+      "updatedAt": "2026-10-18T19:57:41+02:00",
+      "latest": 2,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-18-color-picker-minimal-3-designs",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-18T19:55:44+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-color-picker-18-october-2026/designs-round-1"
+          },
+          "files": []
+        },
+        {
+          "n": 2,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-18-color-picker-minimal-3-designs-v2",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-18T19:57:41+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-color-picker-18-october-2026/designs-round-1"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "cover-letter-eidos-vfx-artist",
+      "title": "Cover Letter Eidos VFX Artist",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "Cover Letter"
+      ],
+      "projects": [
+        "zenray-edit"
+      ],
+      "related": [],
+      "createdAt": "2026-10-27T17:34:29+01:00",
+      "updatedAt": "2026-10-27T17:34:29+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-27-cover-letter-eidos-vfx-artist",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-27T17:34:29+01:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-cover-letter-eidos-27-october-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "cover-letter-ludia-technical-artist",
+      "title": "Technical Artist / Artiste Technique",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "cover-letter"
+      ],
+      "projects": [
+        "zenray-edit"
+      ],
+      "related": [],
+      "createdAt": "2026-10-29T11:05:28+01:00",
+      "updatedAt": "2026-10-29T11:05:28+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-29-cover-letter-ludia-technical-artist",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-29T11:05:28+01:00",
+          "note": "Rendered PDF Document, 1 page(s)",
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/var/folders/r2/wh6ygv490dqbrs2mb51g39jm0000gn/T/zr-pdf-build-cover-letter-ludia-technical-artist-1793268326950"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "delivery-mode-context-menu",
+      "title": "Clic droit : archive, streaming ou les deux (3 designs A B C)",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "create-context-menu"
+      ],
+      "projects": [
+        "zenray-progress"
+      ],
+      "related": [],
+      "createdAt": "2026-10-14T14:48:46+02:00",
+      "updatedAt": "2026-10-14T14:48:46+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-14-delivery-mode-context-menu",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-14T14:48:46+02:00",
+          "note": "A carte d'etat, B entree avec valeur, C tableau des trois etats ; Matthieu a choisi B + C dans un seul clic droit (14 October 2026). Code sur origin/main (bd106c36), deploye : bundle de production index-CfICjFMF.js identique au build.",
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-delivery-widget-3-designs"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "design-gallery-three-directions",
+      "title": "Design et ArtStation, trois directions",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "Design"
+      ],
+      "projects": [
+        "zenray-progress"
+      ],
+      "related": [],
+      "createdAt": "2026-10-21T00:30:03+02:00",
+      "updatedAt": "2026-10-21T00:30:03+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-21-design-gallery-three-directions",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-21T00:30:03+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-progress/DesignMockups-21-October-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "documentation-zenray-height-houdini",
+      "title": "Documentation ZenRay Height et ZenRay Houdini : trois designs",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "zenray-houdini"
+      ],
+      "projects": [
+        "louisiana-bayou"
+      ],
+      "related": [],
+      "createdAt": "2026-10-23T13:45:00+02:00",
+      "updatedAt": "2026-10-23T13:45:00+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-23-documentation-zenray-height-houdini",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-23T13:45:00+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/skills/zenray-houdini/docs/designs"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "documentation-zenray-height-houdini-v2",
+      "title": "Documentation ZenRay Height et ZenRay Houdini : trois designs, typographie et ton neutre",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "zenray-houdini"
+      ],
+      "projects": [
+        "louisiana-bayou"
+      ],
+      "related": [],
+      "createdAt": "2026-10-23T14:10:42+02:00",
+      "updatedAt": "2026-10-23T14:10:42+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-23-documentation-zenray-height-houdini-v2",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-23T14:10:42+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/skills/zenray-houdini/docs/designs"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "documentation-zenray-height-houdini-v3",
+      "title": "Documentation ZenRay Height et ZenRay Houdini : titres GT Sectra LCG, corps Anthropic Serif",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "zenray-houdini"
+      ],
+      "projects": [
+        "louisiana-bayou"
+      ],
+      "related": [],
+      "createdAt": "2026-10-23T14:19:23+02:00",
+      "updatedAt": "2026-10-23T14:19:23+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-23-documentation-zenray-height-houdini-v3",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-23T14:19:23+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/skills/zenray-houdini/docs/designs"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "freelance-experience-widget",
+      "title": "ZenRay Freelance : Swap FR/EN 0 ms & Widget Expérience Meerkat Studio (SmartRecruiters)",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "freelance"
+      ],
+      "projects": [
+        "zenray-freelance"
+      ],
+      "related": [],
+      "createdAt": "2026-10-27T14:33:57+01:00",
+      "updatedAt": "2026-10-27T14:33:57+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-27-freelance-experience-widget",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-27T14:33:57+01:00",
+          "note": "Widget 1-clic pour copier Title, Company (Meerkat Studio), Office location, From (01/2024), To (06/2026), Description et swap FR/EN en 0 ms",
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-freelance-experience-widget-27-October-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "freelance-gt-standard",
+      "title": "ZenRay Freelance en GT Standard, trois propositions",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "freelance"
+      ],
+      "projects": [
+        "zenray-freelance"
+      ],
+      "related": [],
+      "createdAt": "2026-10-26T11:05:41+01:00",
+      "updatedAt": "2026-10-26T11:05:41+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-26-freelance-gt-standard",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-26T11:05:41+01:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-freelance-gt-standard-26-october-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "freelance-gt-ultra",
+      "title": "ZenRay Freelance pixel-perfect en GT Ultra, Literata et GT Standard L",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "freelance"
+      ],
+      "projects": [
+        "zenray-freelance"
+      ],
+      "related": [],
+      "createdAt": "2026-10-26T13:52:17+01:00",
+      "updatedAt": "2026-10-26T13:52:17+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-26-freelance-gt-ultra",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-26T13:52:17+01:00",
+          "note": "Pixel-perfect : seules les 3 polices changent (GT Ultra 400 titres et nombres/dates/unités, Literata 400/500 studios et postes, GT Standard L 400 interface)",
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-freelance-gt-ultra-26-october-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "gallery-rework-todo3d",
+      "title": "Rework Galerie ToDo-3D (3 Propositions, Hover Video, 0 Bande Noire)",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "ZenRayProgress Gallery"
+      ],
+      "projects": [
+        "zenray-progress"
+      ],
+      "related": [],
+      "createdAt": "2026-10-26T16:11:56+01:00",
+      "updatedAt": "2026-10-26T16:46:21+01:00",
+      "latest": 3,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-26-gallery-rework-todo3d",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-26T16:11:56+01:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-gallery-rework-26-October-2026"
+          },
+          "files": []
+        },
+        {
+          "n": 2,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-26-gallery-rework-todo3d-v2",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-26T16:25:37+01:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-gallery-rework-26-October-2026"
+          },
+          "files": []
+        },
+        {
+          "n": 3,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-26-gallery-rework-todo3d-v3",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-26T16:46:21+01:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-gallery-rework-26-October-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "gaming-2026-ia-et-mac",
+      "title": "Gaming 2026, IA et Mac",
+      "kind": "source",
+      "language": "fr",
+      "tags": [
+        "gaming",
+        "ia",
+        "mac",
+        "recompilation"
+      ],
+      "projects": [],
+      "related": [
+        "gaming-2026-ia-et-mac-synthese"
+      ],
+      "createdAt": "2026-11-09T14:56:31+01:00",
+      "updatedAt": "2026-11-09T14:56:31+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "gaming-2026-ia-et-mac/V_001-9-November-2026-1456",
+          "main": "Gaming 2026, IA et Mac.md",
+          "status": "sealed",
+          "storage": "local",
+          "createdAt": "2026-11-09T14:56:31+01:00",
+          "note": "Rapport de recherche source, deux parties et 136 références, état au 3 November 2026.",
+          "origin": null,
+          "files": [
+            {
+              "path": "Gaming 2026, IA et Mac.md",
+              "bytes": 618543,
+              "sha256": "a5227e0af002b26f40075a50917cc684b0dad603f273fbe5e728e0415d03b70f"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gaming-2026-ia-et-mac-synthese",
+      "title": "Gaming 2026, IA et Mac : synthèse",
+      "kind": "synthesis",
+      "language": "fr",
+      "tags": [
+        "gaming",
+        "ia",
+        "mac"
+      ],
+      "projects": [
+        "zenray-edit"
+      ],
+      "related": [
+        "gaming-2026-ia-et-mac"
+      ],
+      "createdAt": "2026-11-09T14:56:31+01:00",
+      "updatedAt": "2026-11-09T14:56:31+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "gaming-2026-ia-et-mac-synthese/V_001-9-November-2026-1456",
+          "main": "Synthese.html",
+          "status": "sealed",
+          "storage": "local",
+          "createdAt": "2026-11-09T14:56:31+01:00",
+          "note": "Synthèse HTML en 9 sections rédigées au présent, 136 sources numérotées, publiée aussi en artefact (https://claude.ai/artifact/U8odQQy71H8h7GeuHRQNK1).",
+          "origin": null,
+          "files": [
+            {
+              "path": "Synthese.html",
+              "bytes": 544009,
+              "sha256": "be7318828308ed2c3d7d367b147850f0f06bc7a3905646d82c4781c5bab77f17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grading-sliders-bayou",
+      "title": "Grading sliders Louisiana Bayou",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "grading"
+      ],
+      "projects": [
+        "louisiana-bayou"
+      ],
+      "related": [],
+      "createdAt": "2026-10-29T19:34:29+01:00",
+      "updatedAt": "2026-10-29T19:34:29+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-29-grading-sliders-bayou",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-29T19:34:29+01:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-grading-bayou-29-october-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "grilli-type-fontbook-comparison",
+      "title": "Comparaison des 21 familles Grilli Type et 5 fontes",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "typography"
+      ],
+      "projects": [
+        "zenray-edit"
+      ],
+      "related": [],
+      "createdAt": "2026-10-28T20:22:59+01:00",
+      "updatedAt": "2026-10-28T20:22:59+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-28-grilli-type-fontbook-comparison",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-28T20:22:59+01:00",
+          "note": "21 familles Grilli Type regroupées depuis les noms OpenType du Font Book, plus Literata, Inter, Anthropic Serif, Sans et Mono.",
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-edit/tmp-fontbook-grilli-type-28-October-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "louisiana-bayou-roof-summary",
+      "title": "Louisiana Bayou : le toit en trois paragraphes",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "article"
+      ],
+      "projects": [
+        "louisiana-bayou"
+      ],
+      "related": [],
+      "createdAt": "2026-10-29T18:21:00+01:00",
+      "updatedAt": "2026-10-29T18:31:31+01:00",
+      "latest": 2,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-29-louisiana-bayou-roof-summary",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-29T18:21:00+01:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-houdini-september-2026/tmp-bayou-louisiana/Articles/RoofSummary-29-October-2026"
+          },
+          "files": []
+        },
+        {
+          "n": 2,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-29-louisiana-bayou-roof-summary-v2",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-29T18:31:31+01:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-houdini-september-2026/tmp-bayou-louisiana/Articles/RoofSummary-29-October-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "motion-ui-mockups",
+      "title": "Motion Design : 3 maquettes d'UI (Atelier, Planche, Inspecteur)",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "motion-design"
+      ],
+      "projects": [
+        "zenray-motion-design"
+      ],
+      "related": [],
+      "createdAt": "2026-10-21T19:35:10+02:00",
+      "updatedAt": "2026-10-21T19:35:10+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-21-motion-ui-mockups",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-21T19:35:10+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-motion-design/ui-mockups-21-October-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "plan-current-fonts-contrast",
+      "title": "ZenRay Plan, design actuel, polices et contraste",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "plan"
+      ],
+      "projects": [
+        "zenray-calendar-plan-23-october-2026"
+      ],
+      "related": [],
+      "createdAt": "2026-10-26T12:37:43+01:00",
+      "updatedAt": "2026-10-26T13:00:06+01:00",
+      "latest": 2,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-26-plan-current-fonts-contrast",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-26T12:37:43+01:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-calendar-plan-23-october-2026/Designs/Plan-26-October-2026"
+          },
+          "files": []
+        },
+        {
+          "n": 2,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-26-plan-current-fonts-contrast-v2",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-26T13:00:06+01:00",
+          "note": "26 October 2026 : A retenu, attachments repliés, validation dans le widget, dates entières GT Ultra.",
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-calendar-plan-23-october-2026/Designs/Plan-26-October-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "plan-entry-zoom",
+      "title": "Plan, entrée directe et zoom semaine puis jour",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "zenray-plan"
+      ],
+      "projects": [
+        "zenray-plan"
+      ],
+      "related": [],
+      "createdAt": "2026-10-23T17:17:40+02:00",
+      "updatedAt": "2026-10-23T17:17:40+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-23-plan-entry-zoom",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-23T17:17:40+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-plan/entry-zoom-23-October-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "plan-tile-time-top",
+      "title": "Plan, heure en haut à gauche de la tuile",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "zenray-plan"
+      ],
+      "projects": [
+        "zenray-plan"
+      ],
+      "related": [],
+      "createdAt": "2026-10-23T16:58:20+02:00",
+      "updatedAt": "2026-10-23T16:58:20+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-23-plan-tile-time-top",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-23T16:58:20+02:00",
+          "note": "Appliqué inversé : heure Anthropic Serif, titre GT Sectra LCG",
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-plan/tile-time-top-23-October-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "plan-tile-times",
+      "title": "Plan, trois façons d'afficher l'heure",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "zenray-plan"
+      ],
+      "projects": [
+        "zenray-plan"
+      ],
+      "related": [],
+      "createdAt": "2026-10-23T16:58:21+02:00",
+      "updatedAt": "2026-10-23T16:58:21+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-23-plan-tile-times",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-23T16:58:21+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/skills/zenray-edit/templates/zenray-plan-tile-times"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "qlmarkdown-trois-designs",
+      "title": "QLMarkdown, trois designs",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "qlmarkdown"
+      ],
+      "projects": [
+        "qlmarkdown-designs-25-october-2026"
+      ],
+      "related": [],
+      "createdAt": "2026-10-25T14:55:28+01:00",
+      "updatedAt": "2026-10-25T14:55:28+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-25-qlmarkdown-trois-designs",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-25T14:55:28+01:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-qlmarkdown-designs-25-october-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "sidebar-gt-ultra-literata-toggle",
+      "title": "Sidebar GT Ultra et Literata avec toggle",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "sidebar"
+      ],
+      "projects": [
+        "zenray-progress"
+      ],
+      "related": [],
+      "createdAt": "2026-10-28T20:39:48+01:00",
+      "updatedAt": "2026-10-28T20:44:58+01:00",
+      "latest": 3,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-28-sidebar-gt-ultra-literata-toggle",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-28T20:39:48+01:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-edit/tmp-sidebar-literata-gt-standard-28-October-2026"
+          },
+          "files": []
+        },
+        {
+          "n": 2,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-28-sidebar-gt-ultra-literata-toggle-v2",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-28T20:40:53+01:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-edit/tmp-sidebar-literata-gt-standard-28-October-2026"
+          },
+          "files": []
+        },
+        {
+          "n": 3,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-28-sidebar-gt-ultra-literata-toggle-v3",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-28T20:44:58+01:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-edit/tmp-sidebar-literata-gt-standard-28-October-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "sidebar-literata-gt-standard",
+      "title": "Sidebar de gauche en Literata et GT Standard L, curseurs, Freelance sous Plan",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "sidebar"
+      ],
+      "projects": [
+        "zenray-progress"
+      ],
+      "related": [],
+      "createdAt": "2026-10-26T11:28:18+01:00",
+      "updatedAt": "2026-10-28T20:22:36+01:00",
+      "latest": 2,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-26-sidebar-literata-gt-standard",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-26T11:28:18+01:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-sidebar-fonts-26-october-2026"
+          },
+          "files": []
+        },
+        {
+          "n": 2,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-28-sidebar-literata-gt-standard",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-28T20:22:36+01:00",
+          "note": "Reprise du HTML du 26 October 2026, titre de page en GT Ultra et valeurs numériques en GT Ultra.",
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-edit/tmp-sidebar-literata-gt-standard-28-October-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "sidebar-plan-first",
+      "title": "Barre latérale, Plan en tête, une seule famille, Tools en bas",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "zenray-progress"
+      ],
+      "projects": [
+        "zenray-progress"
+      ],
+      "related": [],
+      "createdAt": "2026-10-23T19:20:52+02:00",
+      "updatedAt": "2026-10-23T19:20:52+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-23-sidebar-plan-first",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-23T19:20:52+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-plan/sidebar-designs-23-October-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "sidebar-v2-italic",
+      "title": "Barre latérale V2 : GT Sectra droit contre italique",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "zenray-progress"
+      ],
+      "projects": [
+        "zenray-progress"
+      ],
+      "related": [],
+      "createdAt": "2026-10-23T19:33:35+02:00",
+      "updatedAt": "2026-10-23T19:33:35+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-23-sidebar-v2-italic",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-23T19:33:35+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-plan/sidebar-designs-v2-italic-23-October-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "sidebar-v2-space",
+      "title": "Barre latérale V2 : espace sans filets, GT Sectra, minimum",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "zenray-progress"
+      ],
+      "projects": [
+        "zenray-progress"
+      ],
+      "related": [],
+      "createdAt": "2026-10-23T19:30:25+02:00",
+      "updatedAt": "2026-10-23T19:30:25+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-23-sidebar-v2-space",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-23T19:30:25+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-plan/sidebar-designs-v2-23-October-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "skin-bg-picker-matthieu10-img2",
+      "title": "Skin Bg Picker 2, image 2 de la planche matthieu10 (fond rouge debug, peau, fonds gris, formats)",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "photo"
+      ],
+      "projects": [
+        "studiophoto-matthieu-17-october-2026"
+      ],
+      "related": [],
+      "createdAt": "2026-10-18T21:21:43+02:00",
+      "updatedAt": "2026-10-18T21:21:43+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-18-skin-bg-picker-matthieu10-img2",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-18T21:21:43+02:00",
+          "note": "index2 demandé le 18 October 2026, états de départ : debug rouge",
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-studiophoto-matthieu-17-october-2026/Index2"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "skin-bg-picker-orange-e8714e",
+      "title": "Skin Bg Picker, fond couleur unie orange #e8714e (images 5 et 10)",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "photo"
+      ],
+      "projects": [
+        "studiophoto-matthieu-17-october-2026"
+      ],
+      "related": [],
+      "createdAt": "2026-10-21T00:43:59+02:00",
+      "updatedAt": "2026-10-21T00:43:59+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-21-skin-bg-picker-orange-e8714e",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-21T00:43:59+02:00",
+          "note": "21 October 2026, valeurs de depart de Matthieu, correction du champ source copie",
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/tmp/atelier-orange"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "skin-bg-picker-radial-ffa000-ff5c02",
+      "title": "Studio photo, dégradé radial ffa000 vers ff5c02",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "skin-bg-picker"
+      ],
+      "projects": [
+        "studiophoto-matthieu-17-october-2026"
+      ],
+      "related": [],
+      "createdAt": "2026-10-23T13:12:46+02:00",
+      "updatedAt": "2026-10-23T13:12:46+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-23-skin-bg-picker-radial-ffa000-ff5c02",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-23T13:12:46+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/tmp/radial-atelier"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "sport-last-sessions-gt-sectra",
+      "title": "Sport : Last Sessions avec charges et unites + banc d essai 3 fontes GT Sectra en italique (3 designs A B C)",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "sport"
+      ],
+      "projects": [
+        "zenray-progress"
+      ],
+      "related": [],
+      "createdAt": "2026-10-23T20:07:04+02:00",
+      "updatedAt": "2026-10-23T20:07:04+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-23-sport-last-sessions-gt-sectra",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-23T20:07:04+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-sport-last-sessions-designs"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "sport-mockup-last-sessions-simplified",
+      "title": "Sport : Maquette design actuel avec titres GT Sectra normal x2 et Last Sessions Design B epure",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "sport"
+      ],
+      "projects": [
+        "zenray-progress"
+      ],
+      "related": [],
+      "createdAt": "2026-10-23T20:56:59+02:00",
+      "updatedAt": "2026-10-23T20:56:59+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-23-sport-mockup-last-sessions-simplified",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-23T20:56:59+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-sport-last-sessions-designs"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "sport-round-1",
+      "title": "Sport : ronde 1, quatre propositions A B C D (journal, galerie, séance, simple)",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "sport"
+      ],
+      "projects": [
+        "zenray-progress"
+      ],
+      "related": [],
+      "createdAt": "2026-10-16T13:59:26+02:00",
+      "updatedAt": "2026-10-16T13:59:26+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-16-sport-round-1",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-16T13:59:26+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-sport/mockups"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "sport-round-2",
+      "title": "Sport : ronde 2, trois propositions E F G (ligne, tableau, tuiles) avec envoi automatique vers Plan",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "sport"
+      ],
+      "projects": [
+        "zenray-progress"
+      ],
+      "related": [],
+      "createdAt": "2026-10-16T14:02:56+02:00",
+      "updatedAt": "2026-10-16T14:02:56+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-16-sport-round-2",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-16T14:02:56+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-sport/mockups"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "sport-round-3",
+      "title": "Sport : ronde 3, proposition H (base d'exercices, une seule carte Plan, objectif visuel)",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "sport"
+      ],
+      "projects": [
+        "zenray-progress"
+      ],
+      "related": [],
+      "createdAt": "2026-10-16T14:10:20+02:00",
+      "updatedAt": "2026-10-16T14:29:19+02:00",
+      "latest": 2,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-16-sport-round-3",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-16T14:10:20+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-sport/mockups"
+          },
+          "files": []
+        },
+        {
+          "n": 2,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-16-sport-round-3-v2",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-16T14:29:19+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-sport/mockups"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "sport-round-4",
+      "title": "Sport : ronde 4, proposition I refonte Gestalt (tuiles propres, une seule feuille de réglages)",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "sport"
+      ],
+      "projects": [
+        "zenray-progress"
+      ],
+      "related": [],
+      "createdAt": "2026-10-16T14:32:29+02:00",
+      "updatedAt": "2026-10-16T14:32:29+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-16-sport-round-4",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-16T14:32:29+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-sport/mockups"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "sport-round-5",
+      "title": "Sport : ronde 5, la tuile exercice seule, trois propositions A B C alignées",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "sport"
+      ],
+      "projects": [
+        "zenray-progress"
+      ],
+      "related": [],
+      "createdAt": "2026-10-16T14:38:36+02:00",
+      "updatedAt": "2026-10-16T14:38:36+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-16-sport-round-5",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-16T14:38:36+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-sport/mockups"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "sport-round-6",
+      "title": "Sport : ronde 6, page complète avec la tuile C retenue",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "sport"
+      ],
+      "projects": [
+        "zenray-progress"
+      ],
+      "related": [],
+      "createdAt": "2026-10-16T14:41:08+02:00",
+      "updatedAt": "2026-10-16T14:41:08+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-16-sport-round-6",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-16T14:41:08+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-sport/mockups"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "sport-round-7",
+      "title": "Sport : ronde 7, design final avec les 8 images découpées confirmées",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "sport"
+      ],
+      "projects": [
+        "zenray-progress"
+      ],
+      "related": [],
+      "createdAt": "2026-10-16T15:01:11+02:00",
+      "updatedAt": "2026-10-16T15:01:11+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-16-sport-round-7",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-16T15:01:11+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-sport/mockups"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "sport-round-8",
+      "title": "Sport : ronde 8, objectif visuel corrigé en mobile et notification Note du jour",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "sport"
+      ],
+      "projects": [
+        "zenray-progress"
+      ],
+      "related": [],
+      "createdAt": "2026-10-16T15:08:14+02:00",
+      "updatedAt": "2026-10-16T15:08:14+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-16-sport-round-8",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-16T15:08:14+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-sport/mockups"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "sport-round-9",
+      "title": "Sport : ronde 9, design final avec date de séance modifiable (séance passée)",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "sport"
+      ],
+      "projects": [
+        "zenray-progress"
+      ],
+      "related": [],
+      "createdAt": "2026-10-16T15:10:02+02:00",
+      "updatedAt": "2026-10-16T15:10:02+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-16-sport-round-9",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-16T15:10:02+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-sport/mockups"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "sunblink-environment-gameplay-designer",
+      "title": "Application: Environment Gameplay Designer",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "cover-letter"
+      ],
+      "projects": [
+        "zenray-edit"
+      ],
+      "related": [],
+      "createdAt": "2026-10-27T18:01:36+01:00",
+      "updatedAt": "2026-10-27T18:04:01+01:00",
+      "latest": 2,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-27-sunblink-environment-gameplay-designer",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-27T18:01:36+01:00",
+          "note": "Rendered PDF Document, 1 page(s)",
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/var/folders/r2/wh6ygv490dqbrs2mb51g39jm0000gn/T/zr-pdf-build-sunblink-environment-gameplay-designer-1793120495505"
+          },
+          "files": []
+        },
+        {
+          "n": 2,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-27-sunblink-environment-gameplay-designer-v2",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-27T18:04:01+01:00",
+          "note": "Rendered PDF Document, 1 page(s)",
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/var/folders/r2/wh6ygv490dqbrs2mb51g39jm0000gn/T/zr-pdf-build-sunblink-environment-gameplay-designer-1793120640680"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "test-cover-letter-remedy",
+      "title": "Candidature Technical Artist & Pipeline Specialist",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "cover-letter"
+      ],
+      "projects": [
+        "zenray-edit"
+      ],
+      "related": [],
+      "createdAt": "2026-10-27T17:44:23+01:00",
+      "updatedAt": "2026-10-27T17:44:23+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-27-test-cover-letter-remedy",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-27T17:44:23+01:00",
+          "note": "Rendered PDF Document, 1 page(s)",
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/var/folders/r2/wh6ygv490dqbrs2mb51g39jm0000gn/T/zr-pdf-build-test-cover-letter-remedy-1793119462702"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "twilight-princess-hd-extraction",
+      "title": "Twilight Princess HD",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "general"
+      ],
+      "projects": [
+        "zenray-edit"
+      ],
+      "related": [],
+      "createdAt": "2026-11-04T13:42:23+01:00",
+      "updatedAt": "2026-11-04T13:42:23+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-11-04-twilight-princess-hd-extraction",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-11-04T13:42:23+01:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-conversation-codex-6d94c3fb52595cbb57e02bf5/Summary"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "typography-lab",
+      "title": "Typography Lab",
+      "kind": "design",
+      "language": "fr",
+      "tags": [
+        "typographie"
+      ],
+      "projects": [],
+      "related": [],
+      "createdAt": "2026-11-09T15:00:04+01:00",
+      "updatedAt": "2026-11-09T15:00:04+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "typography-lab/V_001-9-November-2026-1500",
+          "main": "Typography-Lab-9-November-2026.html",
+          "status": "sealed",
+          "storage": "local",
+          "createdAt": "2026-11-09T15:00:04+01:00",
+          "note": "Laboratoire de polices : GT Ultra, Adobe Clean, Literata par rôle",
+          "origin": null,
+          "files": [
+            {
+              "path": "Typography-Lab-9-November-2026.html",
+              "bytes": 1008842,
+              "sha256": "d3f157790263d99921e178fbcf85321c762fc1337ccc8dfa806be327eeba084a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "video-player-icons-only",
+      "title": "Lecteur video : icones seules sans cercles (3 designs A B C)",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "video-player"
+      ],
+      "projects": [
+        "zenray-progress"
+      ],
+      "related": [],
+      "createdAt": "2026-10-14T14:48:46+02:00",
+      "updatedAt": "2026-10-14T14:48:46+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-14-video-player-icons-only",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-14T14:48:46+02:00",
+          "note": "icones reelles de Icon.jsx, ombre portee, test scene sombre et claire",
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-video-player-icons-3-designs"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "video-player-minimal-absolu",
+      "title": "Lecteur minimal absolu : barre flottante avec marges et volume en haut (3 variantes A B C, curseurs)",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "video-player"
+      ],
+      "projects": [
+        "zenray-progress"
+      ],
+      "related": [],
+      "createdAt": "2026-10-14T14:55:37+02:00",
+      "updatedAt": "2026-10-14T14:55:37+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-14-video-player-minimal-absolu",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-14T14:55:37+02:00",
+          "note": "suite du choix C de video-player-icons-only ; 9 curseurs : hauteur et marges de la barre, epaisseur, largeur, rangee du haut, volume, icones, ombre",
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-video-player-minimal-absolu-3-designs"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "website-works-typography",
+      "title": "Works : GT Ultra, Literata, GT Standard L",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "typography"
+      ],
+      "projects": [
+        "zenray-website-26-october-2026",
+        "zenray-edit"
+      ],
+      "related": [],
+      "createdAt": "2026-10-26T16:15:25+01:00",
+      "updatedAt": "2026-10-26T16:39:07+01:00",
+      "latest": 2,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-26-website-works-typography",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-26T16:15:25+01:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-website-26-october-2026"
+          },
+          "files": []
+        },
+        {
+          "n": 2,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-26-website-works-typography-v2",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-26T16:39:07+01:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-website-26-october-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "wild-grass-picker",
+      "title": "Wild Grass picker",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "picker"
+      ],
+      "projects": [
+        "louisiana-bayou"
+      ],
+      "related": [],
+      "createdAt": "2026-10-29T22:24:45+01:00",
+      "updatedAt": "2026-10-29T22:24:45+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-29-wild-grass-picker",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-29T22:24:45+01:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-grass-picker-29-october-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "zenray-assets-grilli-terminal-picker",
+      "title": "ZenRay Assets : Sélecteur Grilli Type & Terminal de file",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "general"
+      ],
+      "projects": [
+        "zenray-edit"
+      ],
+      "related": [],
+      "createdAt": "2026-11-04T01:37:14+01:00",
+      "updatedAt": "2026-11-04T01:37:14+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-11-04-zenray-assets-grilli-terminal-picker",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-11-04T01:37:14+01:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-assets-grilli-terminal-picker-4-november-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "zenray-books-minimal-3-designs",
+      "title": "ZenRay Books : 3 designs minimalistes (Apple Books + Google Play Livres + Create/Books)",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "ui"
+      ],
+      "projects": [
+        "zenray-edit"
+      ],
+      "related": [],
+      "createdAt": "2026-10-18T20:35:20+02:00",
+      "updatedAt": "2026-10-18T20:35:20+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-18-zenray-books-minimal-3-designs",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-18T20:35:20+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-books-18-october-2026/designs-round-1"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "zenray-books-v2-ultra-simple",
+      "title": "ZenRay Books v2 : 3 designs ultra-simples (Apple Books & Google Play Livres · Medium 500)",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "ui"
+      ],
+      "projects": [
+        "zenray-edit"
+      ],
+      "related": [],
+      "createdAt": "2026-10-18T20:52:20+02:00",
+      "updatedAt": "2026-10-18T20:52:20+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-18-zenray-books-v2-ultra-simple",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-18T20:52:20+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-books-18-october-2026/designs-round-2"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "zenray-books-v3-shelf-and-c",
+      "title": "ZenRay Books v3 · 3 Propositions Shelf (Shelf.jsx épuré) + Lecteur Design C Double-Page",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "general"
+      ],
+      "projects": [
+        "zenray-books-18-october-2026"
+      ],
+      "related": [],
+      "createdAt": "2026-10-18T22:56:17+02:00",
+      "updatedAt": "2026-10-18T22:56:17+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-18-zenray-books-v3-shelf-and-c",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-18T22:56:17+02:00",
+          "note": "3 propositions ultra-épurées pour la vue Shelf de ZenRay Books (Shelf A Grille Portrait 2:3 Apple Books, Shelf B Table de chevet Create/Books + Grille 218 livres, Shelf C Registre éditorial minimaliste) + Design C Double-Page Livre Ouvert validé dans le même document.",
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-books-18-october-2026/designs-round-3"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "zenray-clipboard",
+      "title": "ZenRay Clipboard",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "general"
+      ],
+      "projects": [
+        "zenray-clipboard"
+      ],
+      "related": [],
+      "createdAt": "2026-11-04T01:17:15+01:00",
+      "updatedAt": "2026-11-04T01:17:15+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-11-04-zenray-clipboard",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-11-04T01:17:15+01:00",
+          "note": "Synthèse HTML ultra-simple 1080p ZenRay Clipboard (4 November 2026)",
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-clipboard/Articles"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "zenray-dictate-claude-ui",
+      "title": "ZenRay Dictate, trois interfaces et trois icônes Claude",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "zenray-dictate"
+      ],
+      "projects": [
+        "zenray-dictate"
+      ],
+      "related": [],
+      "createdAt": "2026-10-25T19:23:06+01:00",
+      "updatedAt": "2026-10-25T19:23:06+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-25-zenray-dictate-claude-ui",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-25T19:23:06+01:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-dictate-ui-25-october-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "zenray-dictate-papier-verre",
+      "title": "ZenRay Dictate V2, Papier en verre et icônes SF Symbols",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "zenray-dictate"
+      ],
+      "projects": [
+        "zenray-dictate"
+      ],
+      "related": [],
+      "createdAt": "2026-10-25T19:27:16+01:00",
+      "updatedAt": "2026-10-25T19:27:16+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-25-zenray-dictate-papier-verre",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-25T19:27:16+01:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-dictate-ui-v2-25-october-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "zenray-knowledge",
+      "title": "ZenRay Knowledge, trois propositions",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "knowledge"
+      ],
+      "projects": [
+        "zenray-edit"
+      ],
+      "related": [],
+      "createdAt": "2026-10-23T13:15:36+02:00",
+      "updatedAt": "2026-10-23T13:15:36+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-23-zenray-knowledge",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-23T13:15:36+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-knowledge-23-october-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "zenray-knowledge-sectra",
+      "title": "ZenRay Knowledge, titres GT Sectra LCG",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "knowledge"
+      ],
+      "projects": [
+        "zenray-edit"
+      ],
+      "related": [],
+      "createdAt": "2026-10-23T13:20:12+02:00",
+      "updatedAt": "2026-10-23T13:20:12+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-23-zenray-knowledge-sectra",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-23T13:20:12+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-knowledge-23-october-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "zenray-knowledge-v2",
+      "title": "ZenRay Knowledge V2, fil et bibliothèque épurés",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "knowledge"
+      ],
+      "projects": [
+        "zenray-edit"
+      ],
+      "related": [],
+      "createdAt": "2026-10-23T13:41:17+02:00",
+      "updatedAt": "2026-10-23T13:41:17+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-23-zenray-knowledge-v2",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-23T13:41:17+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-knowledge-23-october-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "zenray-knowledge-v3",
+      "title": "ZenRay Knowledge V3, liste reliée à la réponse",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "knowledge"
+      ],
+      "projects": [
+        "zenray-edit"
+      ],
+      "related": [],
+      "createdAt": "2026-10-23T13:45:04+02:00",
+      "updatedAt": "2026-10-23T13:45:04+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-23-zenray-knowledge-v3",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-23T13:45:04+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-knowledge-23-october-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "zenray-knowledge-v5-liquid-glass",
+      "title": "ZenRay Knowledge V5, Liquid Glass",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "knowledge"
+      ],
+      "projects": [
+        "zenray-edit"
+      ],
+      "related": [],
+      "createdAt": "2026-10-23T13:56:36+02:00",
+      "updatedAt": "2026-10-23T13:56:36+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-23-zenray-knowledge-v5-liquid-glass",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-23T13:56:36+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-knowledge-23-october-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "zenray-money-lol-3-designs",
+      "title": "ZenRay Money : 3 designs addictifs (UI League of Legends × ZenRay Assets · Medium 500)",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "ui"
+      ],
+      "projects": [
+        "zenray-edit"
+      ],
+      "related": [],
+      "createdAt": "2026-10-18T20:52:21+02:00",
+      "updatedAt": "2026-10-18T20:52:21+02:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-18-zenray-money-lol-3-designs",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-18T20:52:21+02:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-money-18-october-2026/designs-round-1"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "zenray-money-v2-lol-0999",
+      "title": "ZenRay Money v2 · 0.999 League of Legends Hextech Client (Beaufort for LoL · Plan & Google Calendar · Assets · Factures PDF & Excel)",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "general"
+      ],
+      "projects": [
+        "zenray-money-18-october-2026"
+      ],
+      "related": [],
+      "createdAt": "2026-10-18T23:05:57+02:00",
+      "updatedAt": "2026-10-18T23:07:13+02:00",
+      "latest": 2,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-18-zenray-money-v2-lol-0999",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-18T23:05:57+02:00",
+          "note": "Reproduction 0.999 des 7 captures League of Legends avec la police officielle Beaufort for LoL, planche PureRef, 4 SFX WAV Hextech, cadran radial 1250€/semaine (4 contrats + boutique), dock ZenRay Plan & Google Calendar, grille 6x4 ZenRay Assets + radar 5 axes, grand-livre comptable Excel VICTORY 10 colonnes, modale Facture PDF et tutoriel complet.",
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-money-18-october-2026/designs-round-2"
+          },
+          "files": []
+        },
+        {
+          "n": 2,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-18-zenray-money-v2-lol-0999-v2",
+          "main": "index.html",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-10-18T23:07:13+02:00",
+          "note": "Reproduction 0.999 des 7 captures League of Legends avec la police officielle Beaufort for LoL, planche PureRef, 4 SFX WAV Hextech, cadran radial 1250€/semaine (4 contrats + boutique), dock ZenRay Plan & Google Calendar, grille 6x4 ZenRay Assets + radar 5 axes, grand-livre comptable Excel VICTORY 10 colonnes, modale Facture PDF et tutoriel complet.",
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-money-18-october-2026/designs-round-2"
+          },
+          "files": []
+        }
+      ]
+    }
+  ]
+}

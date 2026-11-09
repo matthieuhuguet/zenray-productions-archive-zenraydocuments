@@ -1,0 +1,73 @@
+# ZenRay Documents
+
+67 documents. Generated 2026-11-09T15:00:04+01:00. The single source of truth is index.json.
+
+| Document | Kind | Latest | Updated | Title | Projects |
+|---|---|---|---|---|---|
+| typography-lab | design | V_001  | 2026-11-09 | Typography Lab | - |
+| gaming-2026-ia-et-mac | source | V_001  | 2026-11-09 | Gaming 2026, IA et Mac | - |
+| gaming-2026-ia-et-mac-synthese | synthesis | V_001  | 2026-11-09 | Gaming 2026, IA et Mac : synthèse | zenray-edit |
+| adobe-clean-progress | design | V_001  | 2026-11-05 | Adobe Clean sur ZenRay Progress | zenray-edit |
+| twilight-princess-hd-extraction | design | V_001  | 2026-11-04 | Twilight Princess HD | zenray-edit |
+| zenray-assets-grilli-terminal-picker | design | V_001  | 2026-11-04 | ZenRay Assets : Sélecteur Grilli Type & Terminal de file | zenray-edit |
+| zenray-clipboard | design | V_001  | 2026-11-04 | ZenRay Clipboard | zenray-clipboard |
+| wild-grass-picker | design | V_001  | 2026-10-29 | Wild Grass picker | louisiana-bayou |
+| grading-sliders-bayou | design | V_001  | 2026-10-29 | Grading sliders Louisiana Bayou | louisiana-bayou |
+| louisiana-bayou-roof-summary | design | V_002  | 2026-10-29 | Louisiana Bayou : le toit en trois paragraphes | louisiana-bayou |
+| cover-letter-ludia-technical-artist | design | V_001  | 2026-10-29 | Technical Artist / Artiste Technique | zenray-edit |
+| sidebar-gt-ultra-literata-toggle | design | V_003  | 2026-10-28 | Sidebar GT Ultra et Literata avec toggle | zenray-progress |
+| grilli-type-fontbook-comparison | design | V_001  | 2026-10-28 | Comparaison des 21 familles Grilli Type et 5 fontes | zenray-edit |
+| sidebar-literata-gt-standard | design | V_002  | 2026-10-28 | Sidebar de gauche en Literata et GT Standard L, curseurs, Freelance sous Plan | zenray-progress |
+| sunblink-environment-gameplay-designer | design | V_002  | 2026-10-27 | Application: Environment Gameplay Designer | zenray-edit |
+| test-cover-letter-remedy | design | V_001  | 2026-10-27 | Candidature Technical Artist & Pipeline Specialist | zenray-edit |
+| cover-letter-eidos-vfx-artist | design | V_001  | 2026-10-27 | Cover Letter Eidos VFX Artist | zenray-edit |
+| freelance-experience-widget | design | V_001  | 2026-10-27 | ZenRay Freelance : Swap FR/EN 0 ms & Widget Expérience Meerkat Studio (SmartRecruiters) | zenray-freelance |
+| gallery-rework-todo3d | design | V_003  | 2026-10-26 | Rework Galerie ToDo-3D (3 Propositions, Hover Video, 0 Bande Noire) | zenray-progress |
+| website-works-typography | design | V_002  | 2026-10-26 | Works : GT Ultra, Literata, GT Standard L | zenray-website-26-october-2026, zenray-edit |
+| freelance-gt-ultra | design | V_001  | 2026-10-26 | ZenRay Freelance pixel-perfect en GT Ultra, Literata et GT Standard L | zenray-freelance |
+| plan-current-fonts-contrast | design | V_002  | 2026-10-26 | ZenRay Plan, design actuel, polices et contraste | zenray-calendar-plan-23-october-2026 |
+| freelance-gt-standard | design | V_001  | 2026-10-26 | ZenRay Freelance en GT Standard, trois propositions | zenray-freelance |
+| zenray-dictate-papier-verre | design | V_001  | 2026-10-25 | ZenRay Dictate V2, Papier en verre et icônes SF Symbols | zenray-dictate |
+| zenray-dictate-claude-ui | design | V_001  | 2026-10-25 | ZenRay Dictate, trois interfaces et trois icônes Claude | zenray-dictate |
+| qlmarkdown-trois-designs | design | V_001  | 2026-10-25 | QLMarkdown, trois designs | qlmarkdown-designs-25-october-2026 |
+| abonnement-max-claude-code | design | V_001  | 2026-10-25 | Claude Code, trois titres pour l'anneau | zenray-progress |
+| abonnement-max | design | V_001  | 2026-10-25 | Abonnement Max, trois propositions | zenray-progress |
+| sport-mockup-last-sessions-simplified | design | V_001  | 2026-10-23 | Sport : Maquette design actuel avec titres GT Sectra normal x2 et Last Sessions Design B epure | zenray-progress |
+| sport-last-sessions-gt-sectra | design | V_001  | 2026-10-23 | Sport : Last Sessions avec charges et unites + banc d essai 3 fontes GT Sectra en italique (3 designs A B C) | zenray-progress |
+| sidebar-v2-italic | design | V_001  | 2026-10-23 | Barre latérale V2 : GT Sectra droit contre italique | zenray-progress |
+| sidebar-v2-space | design | V_001  | 2026-10-23 | Barre latérale V2 : espace sans filets, GT Sectra, minimum | zenray-progress |
+| sidebar-plan-first | design | V_001  | 2026-10-23 | Barre latérale, Plan en tête, une seule famille, Tools en bas | zenray-progress |
+| plan-entry-zoom | design | V_001  | 2026-10-23 | Plan, entrée directe et zoom semaine puis jour | zenray-plan |
+| plan-tile-times | design | V_001  | 2026-10-23 | Plan, trois façons d'afficher l'heure | zenray-plan |
+| plan-tile-time-top | design | V_001  | 2026-10-23 | Plan, heure en haut à gauche de la tuile | zenray-plan |
+| documentation-zenray-height-houdini-v3 | design | V_001  | 2026-10-23 | Documentation ZenRay Height et ZenRay Houdini : titres GT Sectra LCG, corps Anthropic Serif | louisiana-bayou |
+| documentation-zenray-height-houdini-v2 | design | V_001  | 2026-10-23 | Documentation ZenRay Height et ZenRay Houdini : trois designs, typographie et ton neutre | louisiana-bayou |
+| zenray-knowledge-v5-liquid-glass | design | V_001  | 2026-10-23 | ZenRay Knowledge V5, Liquid Glass | zenray-edit |
+| zenray-knowledge-v3 | design | V_001  | 2026-10-23 | ZenRay Knowledge V3, liste reliée à la réponse | zenray-edit |
+| documentation-zenray-height-houdini | design | V_001  | 2026-10-23 | Documentation ZenRay Height et ZenRay Houdini : trois designs | louisiana-bayou |
+| zenray-knowledge-v2 | design | V_001  | 2026-10-23 | ZenRay Knowledge V2, fil et bibliothèque épurés | zenray-edit |
+| zenray-knowledge-sectra | design | V_001  | 2026-10-23 | ZenRay Knowledge, titres GT Sectra LCG | zenray-edit |
+| zenray-knowledge | design | V_001  | 2026-10-23 | ZenRay Knowledge, trois propositions | zenray-edit |
+| skin-bg-picker-radial-ffa000-ff5c02 | design | V_001  | 2026-10-23 | Studio photo, dégradé radial ffa000 vers ff5c02 | studiophoto-matthieu-17-october-2026 |
+| motion-ui-mockups | design | V_001  | 2026-10-21 | Motion Design : 3 maquettes d'UI (Atelier, Planche, Inspecteur) | zenray-motion-design |
+| skin-bg-picker-orange-e8714e | design | V_001  | 2026-10-21 | Skin Bg Picker, fond couleur unie orange #e8714e (images 5 et 10) | studiophoto-matthieu-17-october-2026 |
+| design-gallery-three-directions | design | V_001  | 2026-10-21 | Design et ArtStation, trois directions | zenray-progress |
+| zenray-money-v2-lol-0999 | design | V_002  | 2026-10-18 | ZenRay Money v2 · 0.999 League of Legends Hextech Client (Beaufort for LoL · Plan & Google Calendar · Assets · Factures PDF & Excel) | zenray-money-18-october-2026 |
+| zenray-books-v3-shelf-and-c | design | V_001  | 2026-10-18 | ZenRay Books v3 · 3 Propositions Shelf (Shelf.jsx épuré) + Lecteur Design C Double-Page | zenray-books-18-october-2026 |
+| skin-bg-picker-matthieu10-img2 | design | V_001  | 2026-10-18 | Skin Bg Picker 2, image 2 de la planche matthieu10 (fond rouge debug, peau, fonds gris, formats) | studiophoto-matthieu-17-october-2026 |
+| zenray-money-lol-3-designs | design | V_001  | 2026-10-18 | ZenRay Money : 3 designs addictifs (UI League of Legends × ZenRay Assets · Medium 500) | zenray-edit |
+| zenray-books-v2-ultra-simple | design | V_001  | 2026-10-18 | ZenRay Books v2 : 3 designs ultra-simples (Apple Books & Google Play Livres · Medium 500) | zenray-edit |
+| zenray-books-minimal-3-designs | design | V_001  | 2026-10-18 | ZenRay Books : 3 designs minimalistes (Apple Books + Google Play Livres + Create/Books) | zenray-edit |
+| color-picker-minimal-3-designs | design | V_002  | 2026-10-18 | ZenRay Color Picker : 3 designs minimalistes (A, B, C) | zenray-color-picker-18-october-2026 |
+| sport-round-9 | design | V_001  | 2026-10-16 | Sport : ronde 9, design final avec date de séance modifiable (séance passée) | zenray-progress |
+| sport-round-8 | design | V_001  | 2026-10-16 | Sport : ronde 8, objectif visuel corrigé en mobile et notification Note du jour | zenray-progress |
+| sport-round-7 | design | V_001  | 2026-10-16 | Sport : ronde 7, design final avec les 8 images découpées confirmées | zenray-progress |
+| sport-round-6 | design | V_001  | 2026-10-16 | Sport : ronde 6, page complète avec la tuile C retenue | zenray-progress |
+| sport-round-5 | design | V_001  | 2026-10-16 | Sport : ronde 5, la tuile exercice seule, trois propositions A B C alignées | zenray-progress |
+| sport-round-4 | design | V_001  | 2026-10-16 | Sport : ronde 4, proposition I refonte Gestalt (tuiles propres, une seule feuille de réglages) | zenray-progress |
+| sport-round-3 | design | V_002  | 2026-10-16 | Sport : ronde 3, proposition H (base d'exercices, une seule carte Plan, objectif visuel) | zenray-progress |
+| sport-round-2 | design | V_001  | 2026-10-16 | Sport : ronde 2, trois propositions E F G (ligne, tableau, tuiles) avec envoi automatique vers Plan | zenray-progress |
+| sport-round-1 | design | V_001  | 2026-10-16 | Sport : ronde 1, quatre propositions A B C D (journal, galerie, séance, simple) | zenray-progress |
+| video-player-minimal-absolu | design | V_001  | 2026-10-14 | Lecteur minimal absolu : barre flottante avec marges et volume en haut (3 variantes A B C, curseurs) | zenray-progress |
+| delivery-mode-context-menu | design | V_001  | 2026-10-14 | Clic droit : archive, streaming ou les deux (3 designs A B C) | zenray-progress |
+| video-player-icons-only | design | V_001  | 2026-10-14 | Lecteur video : icones seules sans cercles (3 designs A B C) | zenray-progress |

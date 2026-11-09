@@ -1,0 +1,41 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "gaming-2026-ia-et-mac-synthese",
+  "title": "Gaming 2026, IA et Mac : synthèse",
+  "kind": "synthesis",
+  "language": "fr",
+  "tags": [
+    "gaming",
+    "ia",
+    "mac"
+  ],
+  "projects": [
+    "zenray-edit"
+  ],
+  "related": [
+    "gaming-2026-ia-et-mac"
+  ],
+  "createdAt": "2026-11-09T14:56:31+01:00",
+  "updatedAt": "2026-11-09T14:56:31+01:00",
+  "latest": 1,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "gaming-2026-ia-et-mac-synthese/V_001-9-November-2026-1456",
+      "main": "Synthese.html",
+      "status": "sealed",
+      "storage": "local",
+      "createdAt": "2026-11-09T14:56:31+01:00",
+      "note": "Synthèse HTML en 9 sections rédigées au présent, 136 sources numérotées, publiée aussi en artefact (https://claude.ai/artifact/U8odQQy71H8h7GeuHRQNK1).",
+      "origin": null,
+      "files": [
+        {
+          "path": "Synthese.html",
+          "bytes": 544009,
+          "sha256": "be7318828308ed2c3d7d367b147850f0f06bc7a3905646d82c4781c5bab77f17"
+        }
+      ]
+    }
+  ]
+}

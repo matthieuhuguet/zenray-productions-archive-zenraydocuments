@@ -1,0 +1,40 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "gaming-2026-ia-et-mac",
+  "title": "Gaming 2026, IA et Mac",
+  "kind": "source",
+  "language": "fr",
+  "tags": [
+    "gaming",
+    "ia",
+    "mac",
+    "recompilation"
+  ],
+  "projects": [],
+  "related": [
+    "gaming-2026-ia-et-mac-synthese"
+  ],
+  "createdAt": "2026-11-09T14:56:31+01:00",
+  "updatedAt": "2026-11-09T14:56:31+01:00",
+  "latest": 1,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "gaming-2026-ia-et-mac/V_001-9-November-2026-1456",
+      "main": "Gaming 2026, IA et Mac.md",
+      "status": "sealed",
+      "storage": "local",
+      "createdAt": "2026-11-09T14:56:31+01:00",
+      "note": "Rapport de recherche source, deux parties et 136 références, état au 3 November 2026.",
+      "origin": null,
+      "files": [
+        {
+          "path": "Gaming 2026, IA et Mac.md",
+          "bytes": 618543,
+          "sha256": "a5227e0af002b26f40075a50917cc684b0dad603f273fbe5e728e0415d03b70f"
+        }
+      ]
+    }
+  ]
+}

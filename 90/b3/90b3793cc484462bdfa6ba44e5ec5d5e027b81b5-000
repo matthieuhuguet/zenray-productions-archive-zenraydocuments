@@ -1,0 +1,35 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "typography-lab",
+  "title": "Typography Lab",
+  "kind": "design",
+  "language": "fr",
+  "tags": [
+    "typographie"
+  ],
+  "projects": [],
+  "related": [],
+  "createdAt": "2026-11-09T15:00:04+01:00",
+  "updatedAt": "2026-11-09T15:00:04+01:00",
+  "latest": 1,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "typography-lab/V_001-9-November-2026-1500",
+      "main": "Typography-Lab-9-November-2026.html",
+      "status": "sealed",
+      "storage": "local",
+      "createdAt": "2026-11-09T15:00:04+01:00",
+      "note": "Laboratoire de polices : GT Ultra, Adobe Clean, Literata par rôle",
+      "origin": null,
+      "files": [
+        {
+          "path": "Typography-Lab-9-November-2026.html",
+          "bytes": 1008842,
+          "sha256": "d3f157790263d99921e178fbcf85321c762fc1337ccc8dfa806be327eeba084a"
+        }
+      ]
+    }
+  ]
+}
