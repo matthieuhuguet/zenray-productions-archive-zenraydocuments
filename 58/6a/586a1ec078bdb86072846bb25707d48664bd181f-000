@@ -1,0 +1,37 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "zenray-knowledge-sectra",
+  "title": "ZenRay Knowledge, titres GT Sectra LCG",
+  "kind": "design",
+  "language": "en",
+  "tags": [
+    "zenray-edit",
+    "knowledge"
+  ],
+  "projects": [
+    "zenray-edit"
+  ],
+  "related": [],
+  "createdAt": "2026-10-23T13:20:12+02:00",
+  "updatedAt": "2026-10-23T13:20:12+02:00",
+  "latest": 1,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-23-zenray-knowledge-sectra",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-23T13:20:12+02:00",
+      "note": null,
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-knowledge-23-october-2026"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    }
+  ]
+}

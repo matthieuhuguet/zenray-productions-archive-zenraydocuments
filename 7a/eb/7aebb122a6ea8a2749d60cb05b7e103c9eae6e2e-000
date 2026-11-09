@@ -1,7 +1,7 @@
 {
   "schema": "zenray-documents/index@1",
   "cloud": "pages/ZenRayDocuments",
-  "updatedAt": "2026-11-09T15:00:04+01:00",
+  "updatedAt": "2026-11-09T15:55:21+01:00",
   "count": 67,
   "documents": [
     {
@@ -35,7 +35,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-abonnement-max-25-october-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -70,7 +71,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-abonnement-max-b-25-october-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -105,7 +107,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-adobe-clean-05-november-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -140,7 +143,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-color-picker-18-october-2026/designs-round-1"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         },
         {
           "n": 2,
@@ -155,7 +159,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-color-picker-18-october-2026/designs-round-1"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -190,7 +195,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-cover-letter-eidos-27-october-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -225,7 +231,8 @@
             "legacy": true,
             "atelier": "/var/folders/r2/wh6ygv490dqbrs2mb51g39jm0000gn/T/zr-pdf-build-cover-letter-ludia-technical-artist-1793268326950"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -260,7 +267,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-delivery-widget-3-designs"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -295,7 +303,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-progress/DesignMockups-21-October-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -330,7 +339,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/skills/zenray-houdini/docs/designs"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -365,7 +375,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/skills/zenray-houdini/docs/designs"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -400,7 +411,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/skills/zenray-houdini/docs/designs"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -435,7 +447,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-freelance-experience-widget-27-October-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -470,7 +483,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-freelance-gt-standard-26-october-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -505,7 +519,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-freelance-gt-ultra-26-october-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -540,7 +555,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-gallery-rework-26-October-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         },
         {
           "n": 2,
@@ -555,7 +571,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-gallery-rework-26-October-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         },
         {
           "n": 3,
@@ -570,7 +587,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-gallery-rework-26-October-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -608,8 +626,14 @@
               "path": "Gaming 2026, IA et Mac.md",
               "bytes": 618543,
               "sha256": "a5227e0af002b26f40075a50917cc684b0dad603f273fbe5e728e0415d03b70f"
+            },
+            {
+              "path": "_thumb.webp",
+              "bytes": 68964,
+              "sha256": "6b37bbaa8f0cb3caa712d8ab484620e5292f96d20018a42e54f133219c0d3bf1"
             }
-          ]
+          ],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -630,8 +654,8 @@
         "gaming-2026-ia-et-mac"
       ],
       "createdAt": "2026-11-09T14:56:31+01:00",
-      "updatedAt": "2026-11-09T14:56:31+01:00",
-      "latest": 1,
+      "updatedAt": "2026-11-09T15:55:14+01:00",
+      "latest": 2,
       "status": "sealed",
       "versions": [
         {
@@ -648,8 +672,37 @@
               "path": "Synthese.html",
               "bytes": 544009,
               "sha256": "be7318828308ed2c3d7d367b147850f0f06bc7a3905646d82c4781c5bab77f17"
+            },
+            {
+              "path": "_thumb.webp",
+              "bytes": 23774,
+              "sha256": "6e58e8617b8b66cad39ae7cead0307b6cbd3cc67f0ec8cccbef00e33286afdb0"
             }
-          ]
+          ],
+          "thumb": "_thumb.webp"
+        },
+        {
+          "n": 2,
+          "dir": "gaming-2026-ia-et-mac-synthese/V_002-9-November-2026-1555",
+          "main": "Synthese.html",
+          "status": "sealed",
+          "storage": "local",
+          "createdAt": "2026-11-09T15:55:14+01:00",
+          "note": "Déclare le doctype et UTF-8 : la page s'ouvre seule, hors du site, sans accents cassés",
+          "origin": null,
+          "files": [
+            {
+              "path": "Synthese.html",
+              "bytes": 544073,
+              "sha256": "4fab6464ed42cc3add937f88e868fe658fdd9fa16de847ecd964ae5fd59df21d"
+            },
+            {
+              "path": "_thumb.webp",
+              "bytes": 23680,
+              "sha256": "471575fa2183a58ef64495a9f9bfd9488643e632abd4c3258d8172630ef8ea16"
+            }
+          ],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -684,7 +737,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-grading-bayou-29-october-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -719,7 +773,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-edit/tmp-fontbook-grilli-type-28-October-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -754,7 +809,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-houdini-september-2026/tmp-bayou-louisiana/Articles/RoofSummary-29-October-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         },
         {
           "n": 2,
@@ -769,7 +825,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-houdini-september-2026/tmp-bayou-louisiana/Articles/RoofSummary-29-October-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -804,7 +861,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-motion-design/ui-mockups-21-October-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -839,7 +897,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-calendar-plan-23-october-2026/Designs/Plan-26-October-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         },
         {
           "n": 2,
@@ -854,7 +913,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-calendar-plan-23-october-2026/Designs/Plan-26-October-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -889,7 +949,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-plan/entry-zoom-23-October-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -924,7 +985,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-plan/tile-time-top-23-October-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -959,7 +1021,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/skills/zenray-edit/templates/zenray-plan-tile-times"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -994,7 +1057,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-qlmarkdown-designs-25-october-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -1029,7 +1093,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-edit/tmp-sidebar-literata-gt-standard-28-October-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         },
         {
           "n": 2,
@@ -1044,7 +1109,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-edit/tmp-sidebar-literata-gt-standard-28-October-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         },
         {
           "n": 3,
@@ -1059,7 +1125,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-edit/tmp-sidebar-literata-gt-standard-28-October-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -1094,7 +1161,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-sidebar-fonts-26-october-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         },
         {
           "n": 2,
@@ -1109,7 +1177,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-edit/tmp-sidebar-literata-gt-standard-28-October-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -1144,7 +1213,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-plan/sidebar-designs-23-October-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -1179,7 +1249,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-plan/sidebar-designs-v2-italic-23-October-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -1214,7 +1285,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-plan/sidebar-designs-v2-23-October-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -1249,7 +1321,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-studiophoto-matthieu-17-october-2026/Index2"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -1284,7 +1357,8 @@
             "legacy": true,
             "atelier": "/tmp/atelier-orange"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -1319,7 +1393,8 @@
             "legacy": true,
             "atelier": "/tmp/radial-atelier"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -1354,7 +1429,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-sport-last-sessions-designs"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -1389,7 +1465,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-sport-last-sessions-designs"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -1424,7 +1501,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-sport/mockups"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -1459,7 +1537,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-sport/mockups"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -1494,7 +1573,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-sport/mockups"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         },
         {
           "n": 2,
@@ -1509,7 +1589,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-sport/mockups"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -1544,7 +1625,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-sport/mockups"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -1579,7 +1661,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-sport/mockups"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -1614,7 +1697,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-sport/mockups"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -1649,7 +1733,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-sport/mockups"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -1684,7 +1769,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-sport/mockups"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -1719,7 +1805,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-sport/mockups"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -1754,7 +1841,8 @@
             "legacy": true,
             "atelier": "/var/folders/r2/wh6ygv490dqbrs2mb51g39jm0000gn/T/zr-pdf-build-sunblink-environment-gameplay-designer-1793120495505"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         },
         {
           "n": 2,
@@ -1769,7 +1857,8 @@
             "legacy": true,
             "atelier": "/var/folders/r2/wh6ygv490dqbrs2mb51g39jm0000gn/T/zr-pdf-build-sunblink-environment-gameplay-designer-1793120640680"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -1804,7 +1893,8 @@
             "legacy": true,
             "atelier": "/var/folders/r2/wh6ygv490dqbrs2mb51g39jm0000gn/T/zr-pdf-build-test-cover-letter-remedy-1793119462702"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -1839,7 +1929,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-conversation-codex-6d94c3fb52595cbb57e02bf5/Summary"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -1872,8 +1963,14 @@
               "path": "Typography-Lab-9-November-2026.html",
               "bytes": 1008842,
               "sha256": "d3f157790263d99921e178fbcf85321c762fc1337ccc8dfa806be327eeba084a"
+            },
+            {
+              "path": "_thumb.webp",
+              "bytes": 33902,
+              "sha256": "a023dfffa00e7e25b2427e859c959704b8c1988836eedf4dd111507199ca9c08"
             }
-          ]
+          ],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -1908,7 +2005,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-video-player-icons-3-designs"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -1943,7 +2041,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-video-player-minimal-absolu-3-designs"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -1979,7 +2078,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-website-26-october-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         },
         {
           "n": 2,
@@ -1994,7 +2094,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-website-26-october-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -2029,7 +2130,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-grass-picker-29-october-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -2064,7 +2166,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-assets-grilli-terminal-picker-4-november-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -2099,7 +2202,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-books-18-october-2026/designs-round-1"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -2134,7 +2238,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-books-18-october-2026/designs-round-2"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -2169,7 +2274,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-books-18-october-2026/designs-round-3"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -2204,7 +2310,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-clipboard/Articles"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -2239,7 +2346,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-dictate-ui-25-october-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -2274,7 +2382,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-dictate-ui-v2-25-october-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -2309,7 +2418,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-knowledge-23-october-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -2344,7 +2454,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-knowledge-23-october-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -2379,7 +2490,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-knowledge-23-october-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -2414,7 +2526,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-knowledge-23-october-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -2449,7 +2562,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-knowledge-23-october-2026"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -2484,7 +2598,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-money-18-october-2026/designs-round-1"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     },
@@ -2519,7 +2634,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-money-18-october-2026/designs-round-2"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         },
         {
           "n": 2,
@@ -2534,7 +2650,8 @@
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-money-18-october-2026/designs-round-2"
           },
-          "files": []
+          "files": [],
+          "thumb": "_thumb.webp"
         }
       ]
     }

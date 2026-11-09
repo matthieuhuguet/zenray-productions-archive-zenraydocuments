@@ -1,0 +1,37 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "sport-round-6",
+  "title": "Sport : ronde 6, page complète avec la tuile C retenue",
+  "kind": "design",
+  "language": "en",
+  "tags": [
+    "zenray-edit",
+    "sport"
+  ],
+  "projects": [
+    "zenray-progress"
+  ],
+  "related": [],
+  "createdAt": "2026-10-16T14:41:08+02:00",
+  "updatedAt": "2026-10-16T14:41:08+02:00",
+  "latest": 1,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-16-sport-round-6",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-16T14:41:08+02:00",
+      "note": null,
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-sport/mockups"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    }
+  ]
+}

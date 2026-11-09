@@ -1,0 +1,53 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "sunblink-environment-gameplay-designer",
+  "title": "Application: Environment Gameplay Designer",
+  "kind": "design",
+  "language": "en",
+  "tags": [
+    "zenray-edit",
+    "cover-letter"
+  ],
+  "projects": [
+    "zenray-edit"
+  ],
+  "related": [],
+  "createdAt": "2026-10-27T18:01:36+01:00",
+  "updatedAt": "2026-10-27T18:04:01+01:00",
+  "latest": 2,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-27-sunblink-environment-gameplay-designer",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-27T18:01:36+01:00",
+      "note": "Rendered PDF Document, 1 page(s)",
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/var/folders/r2/wh6ygv490dqbrs2mb51g39jm0000gn/T/zr-pdf-build-sunblink-environment-gameplay-designer-1793120495505"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    },
+    {
+      "n": 2,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-27-sunblink-environment-gameplay-designer-v2",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-27T18:04:01+01:00",
+      "note": "Rendered PDF Document, 1 page(s)",
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/var/folders/r2/wh6ygv490dqbrs2mb51g39jm0000gn/T/zr-pdf-build-sunblink-environment-gameplay-designer-1793120640680"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    }
+  ]
+}

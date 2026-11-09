@@ -1,0 +1,37 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "motion-ui-mockups",
+  "title": "Motion Design : 3 maquettes d'UI (Atelier, Planche, Inspecteur)",
+  "kind": "design",
+  "language": "en",
+  "tags": [
+    "zenray-edit",
+    "motion-design"
+  ],
+  "projects": [
+    "zenray-motion-design"
+  ],
+  "related": [],
+  "createdAt": "2026-10-21T19:35:10+02:00",
+  "updatedAt": "2026-10-21T19:35:10+02:00",
+  "latest": 1,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-21-motion-ui-mockups",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-21T19:35:10+02:00",
+      "note": null,
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-motion-design/ui-mockups-21-October-2026"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    }
+  ]
+}

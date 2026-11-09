@@ -1,0 +1,69 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "sidebar-gt-ultra-literata-toggle",
+  "title": "Sidebar GT Ultra et Literata avec toggle",
+  "kind": "design",
+  "language": "en",
+  "tags": [
+    "zenray-edit",
+    "sidebar"
+  ],
+  "projects": [
+    "zenray-progress"
+  ],
+  "related": [],
+  "createdAt": "2026-10-28T20:39:48+01:00",
+  "updatedAt": "2026-10-28T20:44:58+01:00",
+  "latest": 3,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-28-sidebar-gt-ultra-literata-toggle",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-28T20:39:48+01:00",
+      "note": null,
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-edit/tmp-sidebar-literata-gt-standard-28-October-2026"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    },
+    {
+      "n": 2,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-28-sidebar-gt-ultra-literata-toggle-v2",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-28T20:40:53+01:00",
+      "note": null,
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-edit/tmp-sidebar-literata-gt-standard-28-October-2026"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    },
+    {
+      "n": 3,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-28-sidebar-gt-ultra-literata-toggle-v3",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-28T20:44:58+01:00",
+      "note": null,
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-edit/tmp-sidebar-literata-gt-standard-28-October-2026"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    }
+  ]
+}

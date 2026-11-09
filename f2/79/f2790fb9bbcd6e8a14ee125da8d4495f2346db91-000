@@ -1,0 +1,37 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "freelance-experience-widget",
+  "title": "ZenRay Freelance : Swap FR/EN 0 ms & Widget Expérience Meerkat Studio (SmartRecruiters)",
+  "kind": "design",
+  "language": "en",
+  "tags": [
+    "zenray-edit",
+    "freelance"
+  ],
+  "projects": [
+    "zenray-freelance"
+  ],
+  "related": [],
+  "createdAt": "2026-10-27T14:33:57+01:00",
+  "updatedAt": "2026-10-27T14:33:57+01:00",
+  "latest": 1,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-27-freelance-experience-widget",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-27T14:33:57+01:00",
+      "note": "Widget 1-clic pour copier Title, Company (Meerkat Studio), Office location, From (01/2024), To (06/2026), Description et swap FR/EN en 0 ms",
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-freelance-experience-widget-27-October-2026"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    }
+  ]
+}

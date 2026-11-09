@@ -1,0 +1,53 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "color-picker-minimal-3-designs",
+  "title": "ZenRay Color Picker : 3 designs minimalistes (A, B, C)",
+  "kind": "design",
+  "language": "en",
+  "tags": [
+    "zenray-edit",
+    "ui"
+  ],
+  "projects": [
+    "zenray-color-picker-18-october-2026"
+  ],
+  "related": [],
+  "createdAt": "2026-10-18T19:55:44+02:00",
+  "updatedAt": "2026-10-18T19:57:41+02:00",
+  "latest": 2,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-18-color-picker-minimal-3-designs",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-18T19:55:44+02:00",
+      "note": null,
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-color-picker-18-october-2026/designs-round-1"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    },
+    {
+      "n": 2,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-18-color-picker-minimal-3-designs-v2",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-18T19:57:41+02:00",
+      "note": null,
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-color-picker-18-october-2026/designs-round-1"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    }
+  ]
+}

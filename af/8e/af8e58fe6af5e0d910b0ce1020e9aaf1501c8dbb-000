@@ -1,0 +1,37 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "freelance-gt-standard",
+  "title": "ZenRay Freelance en GT Standard, trois propositions",
+  "kind": "design",
+  "language": "en",
+  "tags": [
+    "zenray-edit",
+    "freelance"
+  ],
+  "projects": [
+    "zenray-freelance"
+  ],
+  "related": [],
+  "createdAt": "2026-10-26T11:05:41+01:00",
+  "updatedAt": "2026-10-26T11:05:41+01:00",
+  "latest": 1,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-26-freelance-gt-standard",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-26T11:05:41+01:00",
+      "note": null,
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-freelance-gt-standard-26-october-2026"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    }
+  ]
+}

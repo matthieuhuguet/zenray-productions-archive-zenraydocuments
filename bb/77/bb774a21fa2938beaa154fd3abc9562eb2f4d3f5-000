@@ -1,0 +1,37 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "sport-round-9",
+  "title": "Sport : ronde 9, design final avec date de séance modifiable (séance passée)",
+  "kind": "design",
+  "language": "en",
+  "tags": [
+    "zenray-edit",
+    "sport"
+  ],
+  "projects": [
+    "zenray-progress"
+  ],
+  "related": [],
+  "createdAt": "2026-10-16T15:10:02+02:00",
+  "updatedAt": "2026-10-16T15:10:02+02:00",
+  "latest": 1,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-16-sport-round-9",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-16T15:10:02+02:00",
+      "note": null,
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-sport/mockups"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    }
+  ]
+}

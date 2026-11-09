@@ -1,0 +1,37 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "zenray-books-v2-ultra-simple",
+  "title": "ZenRay Books v2 : 3 designs ultra-simples (Apple Books & Google Play Livres · Medium 500)",
+  "kind": "design",
+  "language": "en",
+  "tags": [
+    "zenray-edit",
+    "ui"
+  ],
+  "projects": [
+    "zenray-edit"
+  ],
+  "related": [],
+  "createdAt": "2026-10-18T20:52:20+02:00",
+  "updatedAt": "2026-10-18T20:52:20+02:00",
+  "latest": 1,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-18-zenray-books-v2-ultra-simple",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-18T20:52:20+02:00",
+      "note": null,
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-books-18-october-2026/designs-round-2"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    }
+  ]
+}

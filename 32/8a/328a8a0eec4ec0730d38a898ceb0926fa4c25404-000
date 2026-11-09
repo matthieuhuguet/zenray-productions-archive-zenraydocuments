@@ -1,0 +1,37 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "twilight-princess-hd-extraction",
+  "title": "Twilight Princess HD",
+  "kind": "design",
+  "language": "en",
+  "tags": [
+    "zenray-edit",
+    "general"
+  ],
+  "projects": [
+    "zenray-edit"
+  ],
+  "related": [],
+  "createdAt": "2026-11-04T13:42:23+01:00",
+  "updatedAt": "2026-11-04T13:42:23+01:00",
+  "latest": 1,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-11-04-twilight-princess-hd-extraction",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-11-04T13:42:23+01:00",
+      "note": null,
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-conversation-codex-6d94c3fb52595cbb57e02bf5/Summary"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    }
+  ]
+}

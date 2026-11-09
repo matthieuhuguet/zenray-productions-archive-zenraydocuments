@@ -1,0 +1,37 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "skin-bg-picker-radial-ffa000-ff5c02",
+  "title": "Studio photo, dégradé radial ffa000 vers ff5c02",
+  "kind": "design",
+  "language": "en",
+  "tags": [
+    "zenray-edit",
+    "skin-bg-picker"
+  ],
+  "projects": [
+    "studiophoto-matthieu-17-october-2026"
+  ],
+  "related": [],
+  "createdAt": "2026-10-23T13:12:46+02:00",
+  "updatedAt": "2026-10-23T13:12:46+02:00",
+  "latest": 1,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-23-skin-bg-picker-radial-ffa000-ff5c02",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-23T13:12:46+02:00",
+      "note": null,
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/tmp/radial-atelier"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    }
+  ]
+}

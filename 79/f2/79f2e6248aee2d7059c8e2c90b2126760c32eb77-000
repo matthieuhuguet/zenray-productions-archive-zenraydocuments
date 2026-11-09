@@ -1,0 +1,53 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "sidebar-literata-gt-standard",
+  "title": "Sidebar de gauche en Literata et GT Standard L, curseurs, Freelance sous Plan",
+  "kind": "design",
+  "language": "en",
+  "tags": [
+    "zenray-edit",
+    "sidebar"
+  ],
+  "projects": [
+    "zenray-progress"
+  ],
+  "related": [],
+  "createdAt": "2026-10-26T11:28:18+01:00",
+  "updatedAt": "2026-10-28T20:22:36+01:00",
+  "latest": 2,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-26-sidebar-literata-gt-standard",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-26T11:28:18+01:00",
+      "note": null,
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-sidebar-fonts-26-october-2026"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    },
+    {
+      "n": 2,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-28-sidebar-literata-gt-standard",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-28T20:22:36+01:00",
+      "note": "Reprise du HTML du 26 October 2026, titre de page en GT Ultra et valeurs numériques en GT Ultra.",
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-edit/tmp-sidebar-literata-gt-standard-28-October-2026"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    }
+  ]
+}

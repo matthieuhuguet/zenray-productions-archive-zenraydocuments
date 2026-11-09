@@ -1,0 +1,37 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "zenray-dictate-papier-verre",
+  "title": "ZenRay Dictate V2, Papier en verre et icônes SF Symbols",
+  "kind": "design",
+  "language": "en",
+  "tags": [
+    "zenray-edit",
+    "zenray-dictate"
+  ],
+  "projects": [
+    "zenray-dictate"
+  ],
+  "related": [],
+  "createdAt": "2026-10-25T19:27:16+01:00",
+  "updatedAt": "2026-10-25T19:27:16+01:00",
+  "latest": 1,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-25-zenray-dictate-papier-verre",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-25T19:27:16+01:00",
+      "note": null,
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-dictate-ui-v2-25-october-2026"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    }
+  ]
+}

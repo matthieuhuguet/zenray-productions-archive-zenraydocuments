@@ -1,0 +1,37 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "sport-last-sessions-gt-sectra",
+  "title": "Sport : Last Sessions avec charges et unites + banc d essai 3 fontes GT Sectra en italique (3 designs A B C)",
+  "kind": "design",
+  "language": "en",
+  "tags": [
+    "zenray-edit",
+    "sport"
+  ],
+  "projects": [
+    "zenray-progress"
+  ],
+  "related": [],
+  "createdAt": "2026-10-23T20:07:04+02:00",
+  "updatedAt": "2026-10-23T20:07:04+02:00",
+  "latest": 1,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-23-sport-last-sessions-gt-sectra",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-23T20:07:04+02:00",
+      "note": null,
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-sport-last-sessions-designs"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    }
+  ]
+}

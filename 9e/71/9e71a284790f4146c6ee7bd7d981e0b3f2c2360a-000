@@ -1,0 +1,37 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "cover-letter-eidos-vfx-artist",
+  "title": "Cover Letter Eidos VFX Artist",
+  "kind": "design",
+  "language": "en",
+  "tags": [
+    "zenray-edit",
+    "Cover Letter"
+  ],
+  "projects": [
+    "zenray-edit"
+  ],
+  "related": [],
+  "createdAt": "2026-10-27T17:34:29+01:00",
+  "updatedAt": "2026-10-27T17:34:29+01:00",
+  "latest": 1,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-27-cover-letter-eidos-vfx-artist",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-27T17:34:29+01:00",
+      "note": null,
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-cover-letter-eidos-27-october-2026"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    }
+  ]
+}

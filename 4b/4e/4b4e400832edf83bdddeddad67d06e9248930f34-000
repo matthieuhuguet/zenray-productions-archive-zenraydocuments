@@ -33,8 +33,14 @@
           "path": "Gaming 2026, IA et Mac.md",
           "bytes": 618543,
           "sha256": "a5227e0af002b26f40075a50917cc684b0dad603f273fbe5e728e0415d03b70f"
+        },
+        {
+          "path": "_thumb.webp",
+          "bytes": 68964,
+          "sha256": "6b37bbaa8f0cb3caa712d8ab484620e5292f96d20018a42e54f133219c0d3bf1"
         }
-      ]
+      ],
+      "thumb": "_thumb.webp"
     }
   ]
 }

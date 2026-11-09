@@ -1,0 +1,37 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "wild-grass-picker",
+  "title": "Wild Grass picker",
+  "kind": "design",
+  "language": "en",
+  "tags": [
+    "zenray-edit",
+    "picker"
+  ],
+  "projects": [
+    "louisiana-bayou"
+  ],
+  "related": [],
+  "createdAt": "2026-10-29T22:24:45+01:00",
+  "updatedAt": "2026-10-29T22:24:45+01:00",
+  "latest": 1,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-29-wild-grass-picker",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-29T22:24:45+01:00",
+      "note": null,
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-grass-picker-29-october-2026"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    }
+  ]
+}

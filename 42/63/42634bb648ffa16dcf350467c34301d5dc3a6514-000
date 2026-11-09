@@ -1,0 +1,53 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "plan-current-fonts-contrast",
+  "title": "ZenRay Plan, design actuel, polices et contraste",
+  "kind": "design",
+  "language": "en",
+  "tags": [
+    "zenray-edit",
+    "plan"
+  ],
+  "projects": [
+    "zenray-calendar-plan-23-october-2026"
+  ],
+  "related": [],
+  "createdAt": "2026-10-26T12:37:43+01:00",
+  "updatedAt": "2026-10-26T13:00:06+01:00",
+  "latest": 2,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-26-plan-current-fonts-contrast",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-26T12:37:43+01:00",
+      "note": null,
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-calendar-plan-23-october-2026/Designs/Plan-26-October-2026"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    },
+    {
+      "n": 2,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-26-plan-current-fonts-contrast-v2",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-26T13:00:06+01:00",
+      "note": "26 October 2026 : A retenu, attachments repliés, validation dans le widget, dates entières GT Ultra.",
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-calendar-plan-23-october-2026/Designs/Plan-26-October-2026"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "zenray-books-v3-shelf-and-c",
+  "title": "ZenRay Books v3 · 3 Propositions Shelf (Shelf.jsx épuré) + Lecteur Design C Double-Page",
+  "kind": "design",
+  "language": "en",
+  "tags": [
+    "zenray-edit",
+    "general"
+  ],
+  "projects": [
+    "zenray-books-18-october-2026"
+  ],
+  "related": [],
+  "createdAt": "2026-10-18T22:56:17+02:00",
+  "updatedAt": "2026-10-18T22:56:17+02:00",
+  "latest": 1,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-18-zenray-books-v3-shelf-and-c",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-18T22:56:17+02:00",
+      "note": "3 propositions ultra-épurées pour la vue Shelf de ZenRay Books (Shelf A Grille Portrait 2:3 Apple Books, Shelf B Table de chevet Create/Books + Grille 218 livres, Shelf C Registre éditorial minimaliste) + Design C Double-Page Livre Ouvert validé dans le même document.",
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-books-18-october-2026/designs-round-3"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    }
+  ]
+}

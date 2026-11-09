@@ -16,8 +16,8 @@
     "gaming-2026-ia-et-mac"
   ],
   "createdAt": "2026-11-09T14:56:31+01:00",
-  "updatedAt": "2026-11-09T14:56:31+01:00",
-  "latest": 1,
+  "updatedAt": "2026-11-09T15:55:14+01:00",
+  "latest": 2,
   "status": "sealed",
   "versions": [
     {
@@ -34,8 +34,37 @@
           "path": "Synthese.html",
           "bytes": 544009,
           "sha256": "be7318828308ed2c3d7d367b147850f0f06bc7a3905646d82c4781c5bab77f17"
+        },
+        {
+          "path": "_thumb.webp",
+          "bytes": 23774,
+          "sha256": "6e58e8617b8b66cad39ae7cead0307b6cbd3cc67f0ec8cccbef00e33286afdb0"
         }
-      ]
+      ],
+      "thumb": "_thumb.webp"
+    },
+    {
+      "n": 2,
+      "dir": "gaming-2026-ia-et-mac-synthese/V_002-9-November-2026-1555",
+      "main": "Synthese.html",
+      "status": "sealed",
+      "storage": "local",
+      "createdAt": "2026-11-09T15:55:14+01:00",
+      "note": "Déclare le doctype et UTF-8 : la page s'ouvre seule, hors du site, sans accents cassés",
+      "origin": null,
+      "files": [
+        {
+          "path": "Synthese.html",
+          "bytes": 544073,
+          "sha256": "4fab6464ed42cc3add937f88e868fe658fdd9fa16de847ecd964ae5fd59df21d"
+        },
+        {
+          "path": "_thumb.webp",
+          "bytes": 23680,
+          "sha256": "471575fa2183a58ef64495a9f9bfd9488643e632abd4c3258d8172630ef8ea16"
+        }
+      ],
+      "thumb": "_thumb.webp"
     }
   ]
 }

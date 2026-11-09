@@ -1,0 +1,37 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "plan-tile-time-top",
+  "title": "Plan, heure en haut à gauche de la tuile",
+  "kind": "design",
+  "language": "en",
+  "tags": [
+    "zenray-edit",
+    "zenray-plan"
+  ],
+  "projects": [
+    "zenray-plan"
+  ],
+  "related": [],
+  "createdAt": "2026-10-23T16:58:20+02:00",
+  "updatedAt": "2026-10-23T16:58:20+02:00",
+  "latest": 1,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-23-plan-tile-time-top",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-23T16:58:20+02:00",
+      "note": "Appliqué inversé : heure Anthropic Serif, titre GT Sectra LCG",
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-plan/tile-time-top-23-October-2026"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    }
+  ]
+}

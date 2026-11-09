@@ -1,0 +1,53 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "louisiana-bayou-roof-summary",
+  "title": "Louisiana Bayou : le toit en trois paragraphes",
+  "kind": "design",
+  "language": "en",
+  "tags": [
+    "zenray-edit",
+    "article"
+  ],
+  "projects": [
+    "louisiana-bayou"
+  ],
+  "related": [],
+  "createdAt": "2026-10-29T18:21:00+01:00",
+  "updatedAt": "2026-10-29T18:31:31+01:00",
+  "latest": 2,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-29-louisiana-bayou-roof-summary",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-29T18:21:00+01:00",
+      "note": null,
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-houdini-september-2026/tmp-bayou-louisiana/Articles/RoofSummary-29-October-2026"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    },
+    {
+      "n": 2,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-29-louisiana-bayou-roof-summary-v2",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-29T18:31:31+01:00",
+      "note": null,
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-houdini-september-2026/tmp-bayou-louisiana/Articles/RoofSummary-29-October-2026"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    }
+  ]
+}

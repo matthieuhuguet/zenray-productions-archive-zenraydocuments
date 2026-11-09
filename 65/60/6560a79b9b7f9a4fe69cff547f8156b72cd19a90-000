@@ -1,0 +1,53 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "zenray-money-v2-lol-0999",
+  "title": "ZenRay Money v2 · 0.999 League of Legends Hextech Client (Beaufort for LoL · Plan & Google Calendar · Assets · Factures PDF & Excel)",
+  "kind": "design",
+  "language": "en",
+  "tags": [
+    "zenray-edit",
+    "general"
+  ],
+  "projects": [
+    "zenray-money-18-october-2026"
+  ],
+  "related": [],
+  "createdAt": "2026-10-18T23:05:57+02:00",
+  "updatedAt": "2026-10-18T23:07:13+02:00",
+  "latest": 2,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-18-zenray-money-v2-lol-0999",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-18T23:05:57+02:00",
+      "note": "Reproduction 0.999 des 7 captures League of Legends avec la police officielle Beaufort for LoL, planche PureRef, 4 SFX WAV Hextech, cadran radial 1250€/semaine (4 contrats + boutique), dock ZenRay Plan & Google Calendar, grille 6x4 ZenRay Assets + radar 5 axes, grand-livre comptable Excel VICTORY 10 colonnes, modale Facture PDF et tutoriel complet.",
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-money-18-october-2026/designs-round-2"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    },
+    {
+      "n": 2,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-18-zenray-money-v2-lol-0999-v2",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-18T23:07:13+02:00",
+      "note": "Reproduction 0.999 des 7 captures League of Legends avec la police officielle Beaufort for LoL, planche PureRef, 4 SFX WAV Hextech, cadran radial 1250€/semaine (4 contrats + boutique), dock ZenRay Plan & Google Calendar, grille 6x4 ZenRay Assets + radar 5 axes, grand-livre comptable Excel VICTORY 10 colonnes, modale Facture PDF et tutoriel complet.",
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-money-18-october-2026/designs-round-2"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    }
+  ]
+}

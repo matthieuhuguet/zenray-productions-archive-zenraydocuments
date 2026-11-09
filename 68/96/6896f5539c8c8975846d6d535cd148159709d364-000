@@ -1,0 +1,37 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "zenray-clipboard",
+  "title": "ZenRay Clipboard",
+  "kind": "design",
+  "language": "en",
+  "tags": [
+    "zenray-edit",
+    "general"
+  ],
+  "projects": [
+    "zenray-clipboard"
+  ],
+  "related": [],
+  "createdAt": "2026-11-04T01:17:15+01:00",
+  "updatedAt": "2026-11-04T01:17:15+01:00",
+  "latest": 1,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-11-04-zenray-clipboard",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-11-04T01:17:15+01:00",
+      "note": "Synthèse HTML ultra-simple 1080p ZenRay Clipboard (4 November 2026)",
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-clipboard/Articles"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    }
+  ]
+}

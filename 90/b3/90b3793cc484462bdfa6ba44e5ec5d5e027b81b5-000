@@ -28,8 +28,14 @@
           "path": "Typography-Lab-9-November-2026.html",
           "bytes": 1008842,
           "sha256": "d3f157790263d99921e178fbcf85321c762fc1337ccc8dfa806be327eeba084a"
+        },
+        {
+          "path": "_thumb.webp",
+          "bytes": 33902,
+          "sha256": "a023dfffa00e7e25b2427e859c959704b8c1988836eedf4dd111507199ca9c08"
         }
-      ]
+      ],
+      "thumb": "_thumb.webp"
     }
   ]
 }

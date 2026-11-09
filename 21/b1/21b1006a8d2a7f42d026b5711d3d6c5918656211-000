@@ -1,0 +1,37 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "skin-bg-picker-orange-e8714e",
+  "title": "Skin Bg Picker, fond couleur unie orange #e8714e (images 5 et 10)",
+  "kind": "design",
+  "language": "en",
+  "tags": [
+    "zenray-edit",
+    "photo"
+  ],
+  "projects": [
+    "studiophoto-matthieu-17-october-2026"
+  ],
+  "related": [],
+  "createdAt": "2026-10-21T00:43:59+02:00",
+  "updatedAt": "2026-10-21T00:43:59+02:00",
+  "latest": 1,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-21-skin-bg-picker-orange-e8714e",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-21T00:43:59+02:00",
+      "note": "21 October 2026, valeurs de depart de Matthieu, correction du champ source copie",
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/tmp/atelier-orange"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    }
+  ]
+}

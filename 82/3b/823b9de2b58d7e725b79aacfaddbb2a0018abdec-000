@@ -1,0 +1,37 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "video-player-icons-only",
+  "title": "Lecteur video : icones seules sans cercles (3 designs A B C)",
+  "kind": "design",
+  "language": "en",
+  "tags": [
+    "zenray-edit",
+    "video-player"
+  ],
+  "projects": [
+    "zenray-progress"
+  ],
+  "related": [],
+  "createdAt": "2026-10-14T14:48:46+02:00",
+  "updatedAt": "2026-10-14T14:48:46+02:00",
+  "latest": 1,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-14-video-player-icons-only",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-14T14:48:46+02:00",
+      "note": "icones reelles de Icon.jsx, ombre portee, test scene sombre et claire",
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/tmp/tmp-video-player-icons-3-designs"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    }
+  ]
+}

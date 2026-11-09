@@ -1,0 +1,37 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "plan-tile-times",
+  "title": "Plan, trois façons d'afficher l'heure",
+  "kind": "design",
+  "language": "en",
+  "tags": [
+    "zenray-edit",
+    "zenray-plan"
+  ],
+  "projects": [
+    "zenray-plan"
+  ],
+  "related": [],
+  "createdAt": "2026-10-23T16:58:21+02:00",
+  "updatedAt": "2026-10-23T16:58:21+02:00",
+  "latest": 1,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-10-23-plan-tile-times",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "reference",
+      "createdAt": "2026-10-23T16:58:21+02:00",
+      "note": null,
+      "origin": {
+        "tool": "zenray-edit",
+        "legacy": true,
+        "atelier": "/Users/zenray/.claude/skills/zenray-edit/templates/zenray-plan-tile-times"
+      },
+      "files": [],
+      "thumb": "_thumb.webp"
+    }
+  ]
+}
