@@ -1,0 +1,44 @@
+{
+  "schema": "zenray-documents/document@1",
+  "id": "zenray-meshes-v3-synthesis",
+  "title": "ZenRay Meshes V3",
+  "kind": "synthesis",
+  "language": "fr",
+  "tags": [
+    "zenray-meshes",
+    "v3"
+  ],
+  "projects": [
+    "zenray-meshes"
+  ],
+  "related": [],
+  "createdAt": "2026-11-09T18:19:57+01:00",
+  "updatedAt": "2026-11-09T18:19:57+01:00",
+  "latest": 1,
+  "status": "sealed",
+  "versions": [
+    {
+      "n": 1,
+      "dir": "zenray-meshes-v3-synthesis/V_001-9-November-2026-1819",
+      "main": "index.html",
+      "status": "sealed",
+      "storage": "local",
+      "createdAt": "2026-11-09T18:19:57+01:00",
+      "note": "Synthese V3 du 9 November 2026 : plan SVG en mm, capot du camion, silhouette 3,3 px",
+      "origin": null,
+      "files": [
+        {
+          "path": "_thumb.webp",
+          "bytes": 47214,
+          "sha256": "9770f0169baf9186739c3777235e218154ff20c3e37438cd01f203e0f6b01602"
+        },
+        {
+          "path": "index.html",
+          "bytes": 786540,
+          "sha256": "a411d8e447dadd8abaf93674f90ebf700b0289f9de5845c6fcf7d69ca3930c33"
+        }
+      ],
+      "thumb": "_thumb.webp"
+    }
+  ]
+}
