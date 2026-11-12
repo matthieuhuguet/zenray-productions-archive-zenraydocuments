@@ -1,8 +1,8 @@
 {
   "schema": "zenray-documents/index@1",
   "cloud": "pages/ZenRayDocuments",
-  "updatedAt": "2026-11-12T15:05:56+01:00",
-  "count": 75,
+  "updatedAt": "2026-11-12T15:09:23+01:00",
+  "count": 76,
   "documents": [
     {
       "id": "abonnement-max",
@@ -2495,6 +2495,42 @@
           "status": "sealed",
           "storage": "reference",
           "createdAt": "2026-11-12T15:05:55+01:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-blueprints-3d-12-november-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "zenray-blueprints-3d-v4",
+      "title": "ZenRay Blueprints 3D, version 4",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "html-design"
+      ],
+      "projects": [
+        "zenray-meshes"
+      ],
+      "related": [],
+      "createdAt": "2026-11-12T15:09:21+01:00",
+      "updatedAt": "2026-11-12T15:09:21+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-11-12-zenray-blueprints-3d-v4",
+          "main": "index.html",
+          "thumb": "_thumb.webp",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-11-12T15:09:21+01:00",
           "note": null,
           "origin": {
             "tool": "zenray-edit",
