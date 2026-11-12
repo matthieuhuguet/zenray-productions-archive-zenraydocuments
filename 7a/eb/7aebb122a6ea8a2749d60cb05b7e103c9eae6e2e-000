@@ -1,8 +1,8 @@
 {
   "schema": "zenray-documents/index@1",
   "cloud": "pages/ZenRayDocuments",
-  "updatedAt": "2026-11-09T18:19:57+01:00",
-  "count": 69,
+  "updatedAt": "2026-11-12T02:09:16+01:00",
+  "count": 70,
   "documents": [
     {
       "id": "abonnement-max",
@@ -521,6 +521,42 @@
           },
           "files": [],
           "thumb": "_thumb.webp"
+        }
+      ]
+    },
+    {
+      "id": "gallery-audio-fonts-mockups",
+      "title": "ZenRay Progress : Galeries Audio (SFX/BGM) & Fonts (Adobe Clean & Multi-Fonts)",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "progress"
+      ],
+      "projects": [
+        "zenray-progress"
+      ],
+      "related": [],
+      "createdAt": "2026-11-12T02:09:15+01:00",
+      "updatedAt": "2026-11-12T02:09:15+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-11-12-gallery-audio-fonts-mockups",
+          "main": "index.html",
+          "thumb": "_thumb.webp",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-11-12T02:09:15+01:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-gallery-audio-fonts-12-november-2026"
+          },
+          "files": []
         }
       ]
     },
@@ -2010,11 +2046,13 @@
       "tags": [
         "typographie"
       ],
-      "projects": [],
+      "projects": [
+        "zenray-edit"
+      ],
       "related": [],
       "createdAt": "2026-11-09T15:00:04+01:00",
-      "updatedAt": "2026-11-09T15:00:04+01:00",
-      "latest": 1,
+      "updatedAt": "2026-11-09T15:00:09+01:00",
+      "latest": 2,
       "status": "sealed",
       "versions": [
         {
@@ -2039,6 +2077,22 @@
             }
           ],
           "thumb": "_thumb.webp"
+        },
+        {
+          "n": 2,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-11-09-typography-lab",
+          "main": "index.html",
+          "thumb": "_thumb.webp",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-11-09T15:00:09+01:00",
+          "note": "Laboratoire de polices par rôle, 9 November 2026",
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-typography-lab-9-november-2026/Atelier"
+          },
+          "files": []
         }
       ]
     },

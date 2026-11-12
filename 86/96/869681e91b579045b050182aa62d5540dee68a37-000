@@ -1,13 +1,14 @@
 # ZenRay Documents
 
-69 documents. Generated 2026-11-09T18:19:57+01:00. The single source of truth is index.json.
+70 documents. Generated 2026-11-12T02:09:16+01:00. The single source of truth is index.json.
 
 | Document | Kind | Latest | Updated | Title | Projects |
 |---|---|---|---|---|---|
+| gallery-audio-fonts-mockups | design | V_001  | 2026-11-12 | ZenRay Progress : Galeries Audio (SFX/BGM) & Fonts (Adobe Clean & Multi-Fonts) | zenray-progress |
 | zenray-meshes-v3-synthesis | synthesis | V_001  | 2026-11-09 | ZenRay Meshes V3 | zenray-meshes |
 | mobile-audio-japonais | article | V_001  | 2026-11-09 | Lecture mobile et audio japonais | zenray-progress |
 | gaming-2026-ia-et-mac-synthese | synthesis | V_002  | 2026-11-09 | Gaming 2026, IA et Mac : synthèse | zenray-edit |
-| typography-lab | design | V_001  | 2026-11-09 | Typography Lab | - |
+| typography-lab | design | V_002  | 2026-11-09 | Typography Lab | zenray-edit |
 | gaming-2026-ia-et-mac | source | V_001  | 2026-11-09 | Gaming 2026, IA et Mac | - |
 | adobe-clean-progress | design | V_001  | 2026-11-05 | Adobe Clean sur ZenRay Progress | zenray-edit |
 | twilight-princess-hd-extraction | design | V_001  | 2026-11-04 | Twilight Princess HD | zenray-edit |
