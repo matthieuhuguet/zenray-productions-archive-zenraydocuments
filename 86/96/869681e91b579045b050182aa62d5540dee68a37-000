@@ -1,9 +1,10 @@
 # ZenRay Documents
 
-74 documents. Generated 2026-11-12T14:57:07+01:00. The single source of truth is index.json.
+75 documents. Generated 2026-11-12T15:05:56+01:00. The single source of truth is index.json.
 
 | Document | Kind | Latest | Updated | Title | Projects |
 |---|---|---|---|---|---|
+| zenray-blueprints-3d-v3 | design | V_001  | 2026-11-12 | ZenRay Blueprints 3D, version 3 | zenray-meshes |
 | wheel-fl-car2-zenray-meshes-karma | design | V_003  | 2026-11-12 | Roue avant Car2 : 5 rendus Karma CPU 2 048 px et post Houdini | zenray-edit |
 | zenray-blueprints-3d-v2 | design | V_001  | 2026-11-12 | ZenRay Blueprints 3D, version 2 | zenray-meshes |
 | zenray-blueprints-3d | design | V_001  | 2026-11-12 | ZenRay Blueprints 3D : hub des composants d'un projet 3D (trois propositions) | zenray-meshes |
