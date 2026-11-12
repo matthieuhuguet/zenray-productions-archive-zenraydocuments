@@ -1,7 +1,7 @@
 {
   "schema": "zenray-documents/index@1",
   "cloud": "pages/ZenRayDocuments",
-  "updatedAt": "2026-11-12T14:28:10+01:00",
+  "updatedAt": "2026-11-12T14:41:34+01:00",
   "count": 73,
   "documents": [
     {
@@ -2271,8 +2271,8 @@
       ],
       "related": [],
       "createdAt": "2026-11-12T13:08:31+01:00",
-      "updatedAt": "2026-11-12T13:08:31+01:00",
-      "latest": 1,
+      "updatedAt": "2026-11-12T14:41:33+01:00",
+      "latest": 2,
       "status": "sealed",
       "versions": [
         {
@@ -2283,6 +2283,22 @@
           "status": "sealed",
           "storage": "reference",
           "createdAt": "2026-11-12T13:08:31+01:00",
+          "note": null,
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-wheel-fl-car2-zenray-meshes"
+          },
+          "files": []
+        },
+        {
+          "n": 2,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-11-12-wheel-fl-car2-zenray-meshes-karma-v2",
+          "main": "index.html",
+          "thumb": "_thumb.webp",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-11-12T14:41:33+01:00",
           "note": null,
           "origin": {
             "tool": "zenray-edit",
