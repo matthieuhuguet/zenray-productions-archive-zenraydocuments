@@ -1,8 +1,8 @@
 {
   "schema": "zenray-documents/index@1",
   "cloud": "pages/ZenRayDocuments",
-  "updatedAt": "2026-11-14T04:24:55+01:00",
-  "count": 78,
+  "updatedAt": "2026-11-14T04:25:43+01:00",
+  "count": 79,
   "documents": [
     {
       "id": "abonnement-max",
@@ -2572,6 +2572,42 @@
             "tool": "zenray-edit",
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-blueprints-3d-12-november-2026"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "zenray-blueprints3d-cockpit-10s",
+      "title": "ZenRay Blueprints 3D 2.0 : cockpit d'inspection et édition CMY en 10 secondes",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "html-design"
+      ],
+      "projects": [
+        "zenray-meshes"
+      ],
+      "related": [],
+      "createdAt": "2026-11-14T04:25:42+01:00",
+      "updatedAt": "2026-11-14T04:25:42+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-11-14-zenray-blueprints3d-cockpit-10s",
+          "main": "index.html",
+          "thumb": "_thumb.webp",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-11-14T04:25:42+01:00",
+          "note": "Pelure d'oignon, Heatmap Rouge/Vert, Zebra, éditeur Magenta+Jaune, symétrie fantôme, 4 feux (14 November 2026)",
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-meshes/Audit_14-November-2026/proposals/02_blueprints3d_ui_10s_prototype"
           },
           "files": []
         }
