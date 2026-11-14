@@ -1,9 +1,10 @@
 # ZenRay Documents
 
-79 documents. Generated 2026-11-14T04:25:43+01:00. The single source of truth is index.json.
+80 documents. Generated 2026-11-14T04:26:13+01:00. The single source of truth is index.json.
 
 | Document | Kind | Latest | Updated | Title | Projects |
 |---|---|---|---|---|---|
+| zenray-cmy2-4archetypes-10s | design | V_001  | 2026-11-14 | Protocole CMY 2.0 : 4 archétypes universels Hard Surface, Organique et Arbre | zenray-meshes |
 | zenray-blueprints3d-cockpit-10s | design | V_001  | 2026-11-14 | ZenRay Blueprints 3D 2.0 : cockpit d'inspection et édition CMY en 10 secondes | zenray-meshes |
 | zenray-meshes-pipeline-10s | design | V_001  | 2026-11-14 | ZenRay Meshes 2.0 : pipeline complet any mesh 99,9 % en 10 secondes | zenray-meshes |
 | zenray-blueprints-3d-edit-controls | design | V_001  | 2026-11-13 | ZenRay Blueprints 3D, contrôles du mode Édition (trois propositions) | zenray-meshes |
