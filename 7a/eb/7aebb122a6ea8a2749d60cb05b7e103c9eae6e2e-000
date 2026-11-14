@@ -1,7 +1,7 @@
 {
   "schema": "zenray-documents/index@1",
   "cloud": "pages/ZenRayDocuments",
-  "updatedAt": "2026-11-14T11:37:27+01:00",
+  "updatedAt": "2026-11-14T12:04:23+01:00",
   "count": 85,
   "documents": [
     {
@@ -3131,8 +3131,8 @@
       ],
       "related": [],
       "createdAt": "2026-11-14T11:37:26+01:00",
-      "updatedAt": "2026-11-14T11:37:26+01:00",
-      "latest": 1,
+      "updatedAt": "2026-11-14T12:04:21+01:00",
+      "latest": 2,
       "status": "sealed",
       "versions": [
         {
@@ -3144,6 +3144,22 @@
           "storage": "reference",
           "createdAt": "2026-11-14T11:37:26+01:00",
           "note": "Rapport final visuel HTML A à Z avec SVG, captures terrain 14_ArmGuard et 07_Manny, PoC 1 à 9 et index cockpits/dossiers",
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-meshes/Audit_14-November-2026/visual_report_atelier"
+          },
+          "files": []
+        },
+        {
+          "n": 2,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-11-14-zenray-meshes-audit-report-a-to-z-v2",
+          "main": "index.html",
+          "thumb": "_thumb.webp",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-11-14T12:04:21+01:00",
+          "note": null,
           "origin": {
             "tool": "zenray-edit",
             "legacy": true,
