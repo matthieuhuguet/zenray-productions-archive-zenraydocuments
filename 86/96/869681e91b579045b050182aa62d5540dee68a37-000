@@ -1,9 +1,10 @@
 # ZenRay Documents
 
-80 documents. Generated 2026-11-14T04:26:13+01:00. The single source of truth is index.json.
+81 documents. Generated 2026-11-14T04:26:37+01:00. The single source of truth is index.json.
 
 | Document | Kind | Latest | Updated | Title | Projects |
 |---|---|---|---|---|---|
+| zenray-houdini-uv-height-bridge-10s | design | V_001  | 2026-11-14 | Suite directe : composant Houdini vers /zenray-uv M1 et /zenray-height Copernicus | zenray-meshes |
 | zenray-cmy2-4archetypes-10s | design | V_001  | 2026-11-14 | Protocole CMY 2.0 : 4 archétypes universels Hard Surface, Organique et Arbre | zenray-meshes |
 | zenray-blueprints3d-cockpit-10s | design | V_001  | 2026-11-14 | ZenRay Blueprints 3D 2.0 : cockpit d'inspection et édition CMY en 10 secondes | zenray-meshes |
 | zenray-meshes-pipeline-10s | design | V_001  | 2026-11-14 | ZenRay Meshes 2.0 : pipeline complet any mesh 99,9 % en 10 secondes | zenray-meshes |
