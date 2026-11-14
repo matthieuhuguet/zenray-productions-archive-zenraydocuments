@@ -1,8 +1,8 @@
 {
   "schema": "zenray-documents/index@1",
   "cloud": "pages/ZenRayDocuments",
-  "updatedAt": "2026-11-13T11:32:57+01:00",
-  "count": 77,
+  "updatedAt": "2026-11-14T04:24:55+01:00",
+  "count": 78,
   "documents": [
     {
       "id": "abonnement-max",
@@ -2970,6 +2970,42 @@
           },
           "files": [],
           "thumb": "_thumb.webp"
+        }
+      ]
+    },
+    {
+      "id": "zenray-meshes-pipeline-10s",
+      "title": "ZenRay Meshes 2.0 : pipeline complet any mesh 99,9 % en 10 secondes",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "html-design"
+      ],
+      "projects": [
+        "zenray-meshes"
+      ],
+      "related": [],
+      "createdAt": "2026-11-14T04:24:53+01:00",
+      "updatedAt": "2026-11-14T04:24:53+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-11-14-zenray-meshes-pipeline-10s",
+          "main": "index.html",
+          "thumb": "_thumb.webp",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-11-14T04:24:53+01:00",
+          "note": "Schéma V5 vs 2.0, 4 archétypes et galerie des 4 PoC mesurés (14 November 2026)",
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-meshes/Audit_14-November-2026/proposals/01_pipeline_master_10s"
+          },
+          "files": []
         }
       ]
     },

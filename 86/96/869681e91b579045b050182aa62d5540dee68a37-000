@@ -1,9 +1,10 @@
 # ZenRay Documents
 
-77 documents. Generated 2026-11-13T11:32:57+01:00. The single source of truth is index.json.
+78 documents. Generated 2026-11-14T04:24:55+01:00. The single source of truth is index.json.
 
 | Document | Kind | Latest | Updated | Title | Projects |
 |---|---|---|---|---|---|
+| zenray-meshes-pipeline-10s | design | V_001  | 2026-11-14 | ZenRay Meshes 2.0 : pipeline complet any mesh 99,9 % en 10 secondes | zenray-meshes |
 | zenray-blueprints-3d-edit-controls | design | V_001  | 2026-11-13 | ZenRay Blueprints 3D, contrôles du mode Édition (trois propositions) | zenray-meshes |
 | zenray-blueprints-3d-v4 | design | V_001  | 2026-11-12 | ZenRay Blueprints 3D, version 4 | zenray-meshes |
 | zenray-blueprints-3d-v3 | design | V_001  | 2026-11-12 | ZenRay Blueprints 3D, version 3 | zenray-meshes |
