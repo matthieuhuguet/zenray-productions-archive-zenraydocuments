@@ -1,8 +1,8 @@
 {
   "schema": "zenray-documents/index@1",
   "cloud": "pages/ZenRayDocuments",
-  "updatedAt": "2026-11-14T04:40:19+01:00",
-  "count": 83,
+  "updatedAt": "2026-11-14T04:50:57+01:00",
+  "count": 84,
   "documents": [
     {
       "id": "abonnement-max",
@@ -3317,6 +3317,42 @@
           },
           "files": [],
           "thumb": "_thumb.webp"
+        }
+      ]
+    },
+    {
+      "id": "zenray-unified-gates-10s",
+      "title": "ZenRay Meshes 2.0 : Matrice Unifiee des 14 Portes (10s)",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "ZenRayMeshesAudit"
+      ],
+      "projects": [
+        "zenray-meshes"
+      ],
+      "related": [],
+      "createdAt": "2026-11-14T04:50:56+01:00",
+      "updatedAt": "2026-11-14T04:50:56+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-11-14-zenray-unified-gates-10s",
+          "main": "index.html",
+          "thumb": "_thumb.webp",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-11-14T04:50:56+01:00",
+          "note": "Simulation interactive des incidents reels (I_008, A_002, miroir organique, UV escalier + ombre cuite) et parametres HDA sur 4 Archetypes CMY 2.0 vers UV M1 et Height 2K.",
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-meshes/Audit_14-November-2026/proposals/07_unified_gates_and_organic_10s"
+          },
+          "files": []
         }
       ]
     }

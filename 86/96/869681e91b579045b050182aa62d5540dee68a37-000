@@ -1,9 +1,10 @@
 # ZenRay Documents
 
-83 documents. Generated 2026-11-14T04:40:19+01:00. The single source of truth is index.json.
+84 documents. Generated 2026-11-14T04:50:57+01:00. The single source of truth is index.json.
 
 | Document | Kind | Latest | Updated | Title | Projects |
 |---|---|---|---|---|---|
+| zenray-unified-gates-10s | design | V_001  | 2026-11-14 | ZenRay Meshes 2.0 : Matrice Unifiee des 14 Portes (10s) | zenray-meshes |
 | zenray-assembly-scale-contact-10s | design | V_001  | 2026-11-14 | ZenRay Meshes 2.0 : Assemblage Multi-Composants, Echelle Mannequin 1.76m et ContactGraph (10s) | zenray-meshes |
 | zenray-meshes-roadmap-10s | design | V_001  | 2026-11-14 | Plan d'action P0 à P3 : corrections exactes et feuille de route ZenRay Meshes 2.0 | zenray-meshes |
 | zenray-houdini-uv-height-bridge-10s | design | V_001  | 2026-11-14 | Suite directe : composant Houdini vers /zenray-uv M1 et /zenray-height Copernicus | zenray-meshes |
