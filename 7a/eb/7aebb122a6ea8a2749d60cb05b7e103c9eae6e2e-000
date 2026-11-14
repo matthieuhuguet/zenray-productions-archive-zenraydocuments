@@ -1,8 +1,8 @@
 {
   "schema": "zenray-documents/index@1",
   "cloud": "pages/ZenRayDocuments",
-  "updatedAt": "2026-11-14T04:26:37+01:00",
-  "count": 81,
+  "updatedAt": "2026-11-14T04:26:50+01:00",
+  "count": 82,
   "documents": [
     {
       "id": "abonnement-max",
@@ -3112,6 +3112,42 @@
             "tool": "zenray-edit",
             "legacy": true,
             "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-meshes/Audit_14-November-2026/proposals/01_pipeline_master_10s"
+          },
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "zenray-meshes-roadmap-10s",
+      "title": "Plan d'action P0 à P3 : corrections exactes et feuille de route ZenRay Meshes 2.0",
+      "kind": "design",
+      "language": "en",
+      "tags": [
+        "zenray-edit",
+        "html-design"
+      ],
+      "projects": [
+        "zenray-meshes"
+      ],
+      "related": [],
+      "createdAt": "2026-11-14T04:26:49+01:00",
+      "updatedAt": "2026-11-14T04:26:49+01:00",
+      "latest": 1,
+      "status": "sealed",
+      "versions": [
+        {
+          "n": 1,
+          "dir": "/Users/zenray/.claude/skills/zenray-edit/designs/2026-11-14-zenray-meshes-roadmap-10s",
+          "main": "index.html",
+          "thumb": "_thumb.webp",
+          "status": "sealed",
+          "storage": "reference",
+          "createdAt": "2026-11-14T04:26:49+01:00",
+          "note": "Matrice 11 correctifs P0->P3 avant/après, simulateur HDA et schéma chronologique 1080p (14 November 2026)",
+          "origin": {
+            "tool": "zenray-edit",
+            "legacy": true,
+            "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-meshes/Audit_14-November-2026/proposals/05_exact_bugfix_roadmap"
           },
           "files": []
         }
